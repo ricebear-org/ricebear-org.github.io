@@ -1,5 +1,3 @@
-<meta name='robots' content='noindex,nofollow' />
-
 # ricebear@TS3_FDX Knowledgebase
 
 **Click [here](#getting-started) if you're new here. Click [here](#active-server-advisories) to quickly get to the Active Server Advisories section within this document.**
