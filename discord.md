@@ -283,11 +283,13 @@ Roles and their functions can change at any time. Any major changes will be anno
 
 ## ricebear Supporter
 
-The ricebear Server (not the same as the Discord guild) used to host our own bots from costs money to run. We host our own instances of bots whenever possible to keep our Discord guild stable and safe. To keep the server online, we rely on monetary donations. Giving a donation to ricebear helps the ricebear Server and our guild continue to thrive and live into the near future, and also grants you special (time-limited) perks within the guild. Contact fuyubear#0765 in the guild for details on how to donate. We appreciate your support!
+The ricebear Server (not the same as the Discord guild) used to host our own bots from costs money to run. We host our own instances of bots whenever possible to keep our Discord guild stable and safe. We also want to improve our server's functionality through Discord Boosting. To keep the server online and with enhanced functionality, we rely on monetary donations. Giving a donation to ricebear helps the ricebear Server and our guild continue to thrive and live into the near future, and also grants you special (time-limited) perks within the guild. Contact fuyubear#0765 in the guild for details on how to donate. We appreciate your support!
 
-For Tier 1, the following perks will be given, at a rate of 5 USD per 2 months:
+Supporter benefits and their availability may change at any time, for any reason.
 
-- Ability to request **a single** custom voice/text channel that would not usually be approved, with a custom name and an optional, configurable whitelist to pick the users who can access your channel.
+For Tier 1, the following perks will be given, at a rate of 2.50-4.99 USD per 2 months:
+
+- Ability to request **a single** custom voice/text channel that would not usually be approved, with a custom name, a choice of bitrate (voice channels only) and an optional, configurable whitelist to pick the users who can access your channel. The maximum bitrate that a custom voice channel can have is 64 kbps.
 
 - Access to X channels with 128 kbps (can let non-Supporters join by dragging them into the channel).
 
@@ -295,15 +297,27 @@ For Tier 1, the following perks will be given, at a rate of 5 USD per 2 months:
 
 - The prestige of giving back to ricebear.
 
-For Tier 2, the following perks will be given, for 5 USD or a Discord boost per month:
+For Tier 2, the following perks will be given, for 5.00-9.99 USD or a Discord boost per month:
 
-- 5 custom channel limit, upped from 1 on Tier 1.
+- All perks from Tier 1.
 
-- Ability to request a custom organization that would not usually be approved with a custom SFW name, its own channels, a choice of channel bitrate (voice channels only), and a configurable member list.
+- 3 custom channel limit, upped from 1 from Tier 1.
+
+- Ability to request a custom organization that would not usually be approved with a custom SFW name, its own channels, a choice of channel bitrate (voice channels only), and a configurable member list. The maximum bitrate that a custom voice channel can have is 96 kbps (or 128 kbps, if available). Channels from the custom organization count towards the 3 custom channel limit.
 
 - Exclusive Supporter Tier 2 role (cannot get Supporter Tier 1 role simultaneously).
 
-- All perks from Tier 1.
+For Tier 3, the following perks will be given, for 10.00+ USD or at least 2 Discord boosts per month:
+
+- All perks from Tier 2.
+
+- 5 custom channel limit, upped from 3 from Tier 2.
+
+- The maximum bitrate that a custom voice channel can have is the highest bitrate available on the server.
+
+- Exclusive Supporter Tier 3 role (cannot get Supporter Tier 1 role simultaneously).
+
+- Highest prestige of giving back to ricebear.
 
 Upon the end of your Supporter period, the Active Supporter role will be replaced by the Past Supporter on your account. Custom organization text channels will be available through a read-only medium. **All other perks are removed.**
 
@@ -317,7 +331,7 @@ To activate your custom organization, just simply send the following details to 
 
 3. [Tier 2 Only] Organization name and purpose
 
-4. [Tier 2 Only] Voice channel bitrates (recommended to choose either 64 or 96 kbps)
+4. [Tier 2 Only] Voice channel bitrates
 
 You can configure users who can join your custom channels using the `r;cc` commands, and who are in your custom organization (thus changing access to the custom organization's channels) with the `r;role` commands (Tier 2 Only). Just typing either of those commands will show a prompt for the subcommands that you can use. To change any of the other details you've provided, contact fuyubear#0765.
 

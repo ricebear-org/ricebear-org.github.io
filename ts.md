@@ -157,7 +157,7 @@ Currently, there is one active server advisory.
 
 ### 2020-08-21: Potential Shutdown of ricebear@TS3
 
-Most of our active TS users have unanimously decided to sunset (shutdown) the TS server by the end of this year (Dec 2020), unless TeamSpeak makes major progress on their new TeamSpeak client.
+Most of our active TS users have unanimously decided to sunset (shutdown) the TS server by the end of this year (Dec 2020), unless TeamSpeak makes major progress on their new TeamSpeak client. Leading up until that point of time, the server may be downsized to accommodate the new convention of using Discord for a majority of activities, both voice and text.
 
 ## Officially Supported TS Clients
 
@@ -290,13 +290,13 @@ Supporter benefits and their availability may change at any time, for any reason
 
 All perks received are optional to use.
 
-For Tier 1, the following perks will be given, at a rate of 5 USD per 2 months:
+For Tier 1, the following perks will be given, at a rate of 2.50-4.99 USD per 2 months:
 
 - Exclusive cosmetic server icon (group) for Supporters.
 
 - The prestige of giving back to the server.
 
-For Tier 2, the following perks will be given, at a rate of 5 USD or a Discord boost every month:
+For Tier 2, the following perks will be given, for 5.00-9.99 USD or a Discord boost per month:
 
 - Custom SFW picture avatar of your choice, after approval from a Ring 0 user like fuyubear. This can be changed/deleted at any time during the active Supporter period.
 
@@ -306,7 +306,7 @@ For Tier 2, the following perks will be given, at a rate of 5 USD or a Discord b
 
 - Every other perk from Tier 1.
 
-For Tier 3, the following perks will be given, at a rate of 8 USD or 2 Discord boosts every month:
+For Tier 3, the following perks will be given, for 10.00+ USD or at least 2 Discord boosts per month:
 
 - Ability to request **up to 3 custom channels**.
 
@@ -430,6 +430,11 @@ If there is a substantial breach within the service, efforts from the Ring 1-2 s
 Any major changes here will be shown in the login window popup. Optionally, you can be notified of any major changes by asking the Ring 1-2 staff to notify you within this service.
 
 ## Public Server Changelog
+
+8/22/20 TS3_FDX2 (Build v2.200405.16U) 「a legacy of memories」:
+
+- Downsize the TS server (removed channels that weren't used very much)
+- Modify KB page on upper spacer
 
 8/15/20 TS3_FDX2 (Build v2.200405.15U):
 
