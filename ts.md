@@ -1,3 +1,5 @@
+<meta name='robots' content='noindex,nofollow' />
+
 # ricebear@TS3_FDX Knowledgebase
 
 **Click [here](#getting-started) if you're new here. Click [here](#active-server-advisories) to quickly get to the Active Server Advisories section within this document.**
@@ -17,30 +19,51 @@ The server's domain is at **ts.ricebear.org**.
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+
   - [About the New TS Client](#about-the-new-ts-client)
+
   - [TS3 Client Version Requirements](#ts3-client-version-requirements)
+
   - [Recommended Applications/Apps to Install](#recommended-applicationsapps-to-install)
+
   - [User Groups (Rings) and Perks](#user-groups-rings-and-perks)
+
   - [User Behavior Guidelines](#user-behavior-guidelines)
 - [Active Server Advisories](#active-server-advisories)
+
 - [Officially Supported TS Clients](#officially-supported-ts-clients)
+
 - [Moderation Philosophy](#moderation-philosophy)
+
 - [Channel Info](#channel-info)
+
   - [Lobby](#lobby)
+
   - [Any channel with H suffix](#any-channel-with-h-suffix)
+
   - [Any channel with R suffix](#any-channel-with-r-suffix)
+
   - [Any channel with S suffix](#any-channel-with-s-suffix)
+
   - [Any channel with V suffix](#any-channel-with-v-suffix)
+
   - [Any channel with P suffix](#any-channel-with-p-suffix)
+
   - [Any channel with E suffix](#any-channel-with-e-suffix)
 - [User Groups (Rings) and Perks](#user-groups-rings-and-perks-1)
+
   - [Ring System](#ring-system)
+
   - [Perk Comparison Table](#perk-comparison-table)
 - [ricebear Supporter](#ricebear-supporter)
+
   - [Avatar Guide](#avatar-guide)
+
   - [Custom Channel Guide](#custom-channel-guide)
 - [Join the ricebear@Discord guild!](#join-the-ricebeardiscord-guild)
+
 - [User Data Policy](#user-data-policy)
+
 - [Public Server Changelog](#public-server-changelog)
 
 ## Getting Started
