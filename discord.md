@@ -1,4 +1,4 @@
-# ricebear Discord Guild
+# ricebear Discord Guild Knowledgebase
 
 To go to the ricebear homepage, click [here](/).
 
