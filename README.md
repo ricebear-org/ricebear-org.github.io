@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to ricebear.
 
-You can use the [editor on GitHub](https://github.com/ricebear-org/ricebear-org.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a large group of friends who love to play games, watch anime, chill, and more!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Join Us
 
-### Markdown
+We have a Discord guild and a TeamSpeak server. You can find details about them, including how to join them, from the respective pages below:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Discord](/discord)
 
-```markdown
-Syntax highlighted code block
+[TeamSpeak](/ts)
 
-# Header 1
-## Header 2
-### Header 3
+## About ricebear
 
-- Bulleted
-- List
+We started in Spring 2014 from two friends in the same class in 8th grade, and eventually expanded to a dozen members. The name comes from half of each of the pair's internet alias': rice from ricebowl, and bear from fuyubear.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ricebear-org/ricebear-org.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Our mission is to help create a place for technology and ACG (anime, comics, and games) fans to hang out and to help each other grow, as well as making a difference for the world. Within our hubs, we foster an environment where we can join up in gaming parties, watch and discuss our favorite shows together, and help each other in academics as well as in our daily lives. Although not all of us are within close proximity of each other, our internet existence lets us thrive together beyond geographic limits. We also aspire to improve the world that we live in, whether it be to make life more easier or more enjoyable, through software and classes. All of these things make up the core of ricebear and its purpose.
