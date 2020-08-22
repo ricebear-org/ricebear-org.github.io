@@ -7,40 +7,27 @@ To go to the ricebear homepage, click [here](/).
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-  
   - [Guild Rules](#guild-rules)
   - [Server Layout and Channel Visibility](#server-layout-and-channel-visibility)
   - [Join Organizations](#join-organizations)
   - [User Roles and Perks](#user-roles-and-perks)
   - [Recommended Applications/Apps to Install](#recommended-applicationsapps-to-install)
-
 - [Supported Discord Clients](#supported-discord-clients)
-
 - [Moderation Philosophy](#moderation-philosophy)
-
 - [Voice Channel Info](#voice-channel-info)
-  
   - [Any channel with H suffix](#any-channel-with-h-suffix)
   - [Any channel with R suffix](#any-channel-with-r-suffix)
   - [Any channel with X suffix](#any-channel-with-x-suffix)
   - [Any channel with V suffix](#any-channel-with-v-suffix)
   - [Any channel with P suffix](#any-channel-with-p-suffix)
   - [Any channel with E suffix](#any-channel-with-e-suffix)
-
 - [User Roles and Perks](#user-roles-and-perks-1)
-  
   - [Ring System](#ring-system)
-  
   - [Perk Comparison Table](#perk-comparison-table)
-  
   - [Other Roles](#other-roles)
-
 - [ricebear Supporter](#ricebear-supporter)
-  
   - [Custom Channel/Organization Guide](#custom-channelorganization-guide)
-
 - [Guild Bots](#guild-bots)
-
 - [Special Credits](#special-credits)
 
 ## Getting Started
