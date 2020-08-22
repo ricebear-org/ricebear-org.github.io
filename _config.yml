@@ -1,2 +1,4 @@
 theme: jekyll-theme-midnight
 title: ricebear
+plugins:
+  - jekyll-relative-links
