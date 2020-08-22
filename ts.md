@@ -10,38 +10,38 @@ This (hopefully) always up to date Knowledgebase document contains info about ma
 
 The server's domain is at **ts.ricebear.org**.
 
-<u>**To report users for bad behavior, reach out to a ricebear Server Team member (verified: fuyubear or rice).**</u>
+<b><u>To report users for bad behavior, reach out to a ricebear Server Team member (verified: fuyubear or rice).</u></b>
 
 **You should bookmark or save the URL to this document now so that you can access it outside ricebear@TS3_FDX.**
 
 ## Table of Contents
 
-* [Getting Started](#getting-started)
-  * [About the New TS Client](#about-the-new-ts-client)
-  * [TS3 Client Version Requirements](#ts3-client-version-requirements)
-  * [Recommended Applications/Apps to Install](#recommended-applicationsapps-to-install)
-  * [User Groups (Rings) and Perks](#user-groups-rings-and-perks)
-  * [User Behavior Guidelines](#user-behavior-guidelines)
-* [Active Server Advisories](#active-server-advisories)
-* [Officially Supported TS Clients](#officially-supported-ts-clients)
-* [Moderation Philosophy](#moderation-philosophy)
-* [Channel Info](#channel-info)
-  * [Lobby](#lobby)
-  * [Any channel with H suffix](#any-channel-with-h-suffix)
-  * [Any channel with R suffix](#any-channel-with-r-suffix)
-  * [Any channel with S suffix](#any-channel-with-s-suffix)
-  * [Any channel with V suffix](#any-channel-with-v-suffix)
-  * [Any channel with P suffix](#any-channel-with-p-suffix)
-  * [Any channel with E suffix](#any-channel-with-e-suffix)
-* [User Groups (Rings) and Perks](#user-groups-rings-and-perks-1)
-  * [Ring System](#ring-system)
-  * [Perk Comparison Table](#perk-comparison-table)
-* [ricebear Supporter](#ricebear-supporter)
+- [Getting Started](#getting-started)
+  - [About the New TS Client](#about-the-new-ts-client)
+  - [TS3 Client Version Requirements](#ts3-client-version-requirements)
+  - [Recommended Applications/Apps to Install](#recommended-applicationsapps-to-install)
+  - [User Groups (Rings) and Perks](#user-groups-rings-and-perks)
+  - [User Behavior Guidelines](#user-behavior-guidelines)
+- [Active Server Advisories](#active-server-advisories)
+- [Officially Supported TS Clients](#officially-supported-ts-clients)
+- [Moderation Philosophy](#moderation-philosophy)
+- [Channel Info](#channel-info)
+  - [Lobby](#lobby)
+  - [Any channel with H suffix](#any-channel-with-h-suffix)
+  - [Any channel with R suffix](#any-channel-with-r-suffix)
+  - [Any channel with S suffix](#any-channel-with-s-suffix)
+  - [Any channel with V suffix](#any-channel-with-v-suffix)
+  - [Any channel with P suffix](#any-channel-with-p-suffix)
+  - [Any channel with E suffix](#any-channel-with-e-suffix)
+- [User Groups (Rings) and Perks](#user-groups-rings-and-perks-1)
+  - [Ring System](#ring-system)
+  - [Perk Comparison Table](#perk-comparison-table)
+- [ricebear Supporter](#ricebear-supporter)
   - [Avatar Guide](#avatar-guide)
-  * [Custom Channel Guide](#custom-channel-guide)
-* [Join the ricebear@Discord guild!](#join-the-ricebeardiscord-guild)
-* [User Data Policy](#user-data-policy)
-* [Public Server Changelog](#public-server-changelog)
+  - [Custom Channel Guide](#custom-channel-guide)
+- [Join the ricebear@Discord guild!](#join-the-ricebeardiscord-guild)
+- [User Data Policy](#user-data-policy)
+- [Public Server Changelog](#public-server-changelog)
 
 ## Getting Started
 
@@ -59,7 +59,7 @@ To start the onboarding process, do the following things:
 
 3. Open the TeamSpeak 3 client and follow the setup instructions as you see them. **You don't need a myTeamSpeak account to join our server**, so you can skip that step when you see it.
 
-4. Install the Recommended TS3 Client Style & Icon Pack, DarkenTS, which is a dark theme for TS3: [https://forum.teamspeak.com/threads/122783-Release-DarkenTS-Save-the-eyes](https://forum.teamspeak.com/threads/122783-Release-DarkenTS-Save-the-eyes)
+4. Install the Recommended TS3 Client Style & Icon Pack, DarkenTS, which is a dark theme for TS3: [https://community.teamspeak.com/t/skin-release-darkents-save-the-eyes/1091](https://community.teamspeak.com/t/skin-release-darkents-save-the-eyes/1091)
 
 5. Connect to our server through ts.ricebear.org. Feel free to make a bookmark to make future connections easier.
 
@@ -85,7 +85,7 @@ Here is a list of known limitations with the new TS client:
   
   - Emoji added from the emoji button is seen as its text shorthand from a TS3 client (`:grinning:`instead of proper emoji)
   
-  - The TS3 client doesn't support viewing code and spoiler formatted text properly. They look like this instead: ``code`` and ||spoiler|| respectively.
+  - The TS3 client doesn't support viewing code and spoiler formatted text properly.
 
 - Channel Owners can't edit these Channel Permissions: Join and Subscribe
 
@@ -156,7 +156,7 @@ These channels are AFK channels. The AFK Radio acts as a client sound check (**p
 
 There is also a second lobby channel for those who don't want to be forced into a Radio channel upon login.
 
-Ch.1L's audio preset is Opus Music Quality 10 (bitrate and codec is 97.2 kbps Opus 1.3 CBR.). Ch.2L's audio preset is Opus Talk Quality 1.
+Ch.1L's audio preset is Opus Music Quality 10 (bitrate and codec is 97.2 kbps Opus 1.3 CBR). Ch.2L's audio preset is Opus Talk Quality 1.
 
 ### Any channel with H suffix
 
