@@ -215,7 +215,7 @@ These channels are private. Only allowed users are able to join the channels the
 
 ### Any channel with E suffix
 
-These channels are dedicated to special events on the server. Some of these channels have whitelists that work like the ones found in the channels with a P suffix.
+These channels are dedicated to special events on the server. Some of these channels have allowlists that work like the ones found in the channels with a P suffix.
 
 ## User Groups (Rings) and Perks
 
@@ -302,7 +302,7 @@ For Tier 2, the following perks will be given, for 5.00-9.99 USD or a Discord bo
 
 - A verified tag to show proof of yourself (like Twitter). The tag name and active/deactive state can be modified at any time during the active Supporter period.
 
-- Ability to request **1 custom channel** with a custom SFW name and icon, option to hide participants from outsiders, option to have only Authorized Users talk, and a whitelist to pick the users who can join your channel.
+- Ability to request **1 custom channel** with a custom SFW name and icon, option to hide participants from outsiders, option to have only Authorized Users talk, and an allowlist to pick the users who can join your channel.
 
 - Every other perk from Tier 1.
 
