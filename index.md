@@ -6,9 +6,9 @@ We are a large group of friends who love to play games, watch anime, chill, and 
 
 We have a Discord guild and a TeamSpeak server. You can find details about them, including how to join them, from the respective pages below:
 
-[Discord](discord.md)
+[Discord](_discord/index.md)
 
-[TeamSpeak](ts.md)
+[TeamSpeak](_ts/index.md)
 
 ## About ricebear
 
