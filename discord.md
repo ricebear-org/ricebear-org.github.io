@@ -44,7 +44,7 @@ To go to the ricebear homepage, click [here](/).
 
 - [ricebear Supporter](#ricebear-supporter)
 
-  - [Custom Channel/Organization Guide](#custom-channelorganization-guide)
+  - [Restricted Channel/Organization Guide](#restricted-channelorganization-guide)
 - [Guild Bots](#guild-bots)
 
 - [Special Credits](#special-credits)
@@ -134,6 +134,7 @@ You'll need to be Ring 4 or above to gain access to more channels. Once you reac
 |
 |-----Ch.1H
 |-----Ch.2H
+|-----Ch.3H
 |-----Ch.0H / Public Space
 ```
 
@@ -151,7 +152,7 @@ For example, if you want to join the PC Master Race Organization. Here's what yo
 
 3. You should now see the #pmr-discuss channel, the only channel associated with the PC Master Race organization. To remove your membership from pmr, you can either use "r;selfrole remove pmr" or toggle the role off on [https://roleypoly.com](https://roleypoly.com)
 
-If you have an idea/request for an organization/channel, send it to fuyubear#0765. However, if the organization/channel is too specific (especially when it asks for very specific users), the organization/channel won't be created unless you have an active Supporter account. See the [ricebear Supporter](#ricebear-supporter) section for more.
+If you have an idea/request for an organization/channel, send it to fuyubear#0765. However, if the organization/channel requires restrictions on who can join (besides being at least Ring 4, the base restriction on almost every channel), the organization/channel won't be created unless you are an active Supporter. Any idea/request that is a direct result in a rule violation will be rejected, no matter if you are a Supporter or not. See the [ricebear Supporter](#ricebear-supporter) section for more.
 
 ### User Roles and Perks
 
@@ -214,11 +215,11 @@ These channels can have bitrates modified by their channel owners at any time.
 
 ### Any channel with P suffix
 
-These channels are private. Only allowed users are able to join the channels they are allowed to join. The allowed users are controlled by the Channel Owners in their respective channels. Private channel creation is currently exclusive to Supporters.
+These channels are restricted (private). Only allowed users are able to join the channels they are allowed to join. The allowed users are controlled by the Channel Owners in their respective channels. Restricted (private) channel creation is currently exclusive to Supporters.
 
 ### Any channel with E suffix
 
-These channels are dedicated to special events in our guild. Some of these channels have whitelists that work like the ones found in the channels with a P suffix.
+These channels are dedicated to special events in our guild. Some of these channels have allowlists that work like the ones found in the channels with a P suffix.
 
 ## User Roles and Perks
 
@@ -262,7 +263,7 @@ In this table, ✔ and❌are used to show perks User Roles have and don't have. 
 | View Audit Log                                                              | ❌              | ❌                           | ✔               | ✔                          | ✔                   |
 | Banning Users(3)                                                            | ❌              | ❌                           | ❌               | ✔                          | ✔                   |
 | Activate Restricted Mode(2)                                                 | ❌              | ❌                           | ❌               | ❌                          | ✔                   |
-| Creating Custom Channels                                                    | ❌              | ❌                           | ❌               | ❌                          | ✔                   |
+| Creating Channels(4)                                                        | ❌              | ❌                           | ❌               | ❌                          | ✔                   |
 | Absolute Guild Control                                                      | ❌              | ❌                           | ❌               | ❌                          | ✔                   |
 
 Notes:
@@ -273,11 +274,13 @@ Notes:
 
 3 - It's not possible to ban/kick users that have either the same or higher rank than your own rank. This is Discord's native behavior.
 
+4 - This means creating channels without admin permission.
+
 ### Other Roles
 
 There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on #org-list, can be joined by Ring 4 (and above) members through "r;selfrole" commands and [https://roleypoly.com](https://roleypoly.com).
 
-**Bot** and **3rd Party Bot** roles are reserved for bots only.
+**Bot** and **3rd Party Bot** (and related) roles are reserved for bots only.
 
 Roles and their functions can change at any time. Any major changes will be announced to the guild.
 
@@ -287,9 +290,9 @@ The ricebear Server (not the same as the Discord guild) used to host our own bot
 
 Supporter benefits and their availability may change at any time, for any reason.
 
-For Tier 1, the following perks will be given, at a rate of 2.50-4.99 USD per 2 months:
+For Tier 1, the following perks will be given, at a rate of 2.50-4.99 USD per month:
 
-- Ability to request **a single** custom voice/text channel that would not usually be approved, with a custom name, a choice of bitrate (voice channels only) and an optional, configurable whitelist to pick the users who can access your channel. The maximum bitrate that a custom voice channel can have is 64 kbps.
+- Ability to request **a single** restricted voice/text channel (defined as a channel not joinable by any Ring 4), with a custom name, a choice of bitrate (voice channels only) and a configurable allowlist to pick the users who can access your channel. The maximum bitrate that a restricted voice channel can have is 64 kbps.
 
 - Access to X channels with 128 kbps (can let non-Supporters join by dragging them into the channel).
 
@@ -301,9 +304,9 @@ For Tier 2, the following perks will be given, for 5.00-9.99 USD or a Discord bo
 
 - All perks from Tier 1.
 
-- 3 custom channel limit, upped from 1 from Tier 1.
+- 3 restricted channel limit, upped from 1 from Tier 1.
 
-- Ability to request a custom organization that would not usually be approved with a custom SFW name, its own channels, a choice of channel bitrate (voice channels only), and a configurable member list. The maximum bitrate that a custom voice channel can have is 96 kbps (or 128 kbps, if available). Channels from the custom organization count towards the 3 custom channel limit.
+- Ability to request a restricted organization that would not usually be approved, with a custom SFW name, its own channels, a choice of channel bitrate (voice channels only), and a configurable allowlist. The maximum bitrate that a restricted voice channel can have is 96 kbps (or 128 kbps, if available). Channels from the restricted organization count towards the 3 restricted channel limit.
 
 - Exclusive Supporter Tier 2 role (cannot get Supporter Tier 1 role simultaneously).
 
@@ -311,33 +314,35 @@ For Tier 3, the following perks will be given, for 10.00+ USD or at least 2 Disc
 
 - All perks from Tier 2.
 
-- 5 custom channel limit, upped from 3 from Tier 2.
+- 5 restricted channel limit, upped from 3 from Tier 2.
 
-- The maximum bitrate that a custom voice channel can have is the highest bitrate available on the server.
+- The maximum bitrate that a restricted voice channel can have is the highest bitrate available on the server.
 
-- Exclusive Supporter Tier 3 role (cannot get Supporter Tier 1 role simultaneously).
+- Exclusive Supporter Tier 3 role (cannot get Supporter Tier 1 and 2 roles simultaneously).
 
 - Highest prestige of giving back to ricebear.
 
-Upon the end of your Supporter period, the Active Supporter role will be replaced by the Past Supporter on your account. Custom organization text channels will be available through a read-only medium. **All other perks are removed.**
+Upon the end of your Supporter period, the Active Supporter role will be replaced by the Past Supporter on your account. Restricted organization text channels will be available through a read-only medium. **All other perks are removed.**
 
-### Custom Channel/Organization Guide
+### Restricted Channel/Organization Guide
 
-To activate your custom organization, just simply send the following details to fuyubear#0765:
+This functionality requires Supporter Tier 2.
+
+To activate your restricted organization, just simply send the following details to fuyubear#0765:
 
 1. Channel name(s) and purpose(s)
 
-2. Block everyone from being moved out of your custom voice channel (evaluated on a case by case basis and may not be provided)
+2. Block everyone from being moved out of your restricted voice channel (evaluated on a case by case basis and may not be provided)
 
-3. [Tier 2 Only] Organization name and purpose
+3. [Tier 2-3 Only] Organization name and purpose
 
-4. [Tier 2 Only] Voice channel bitrates
+4. [Tier 2-3 Only] Voice channel bitrates
 
-You can configure users who can join your custom channels using the `r;cc` commands, and who are in your custom organization (thus changing access to the custom organization's channels) with the `r;role` commands (Tier 2 Only). Just typing either of those commands will show a prompt for the subcommands that you can use. To change any of the other details you've provided, contact fuyubear#0765.
+You can configure users who can join your restricted channels using the `r;cc` commands, and who are in your restricted organization (thus changing access to the restricted organization's channels) with the `r;role` commands (Tier 2-3 Only). Just typing either of those commands will show a prompt for the subcommands that you can use. To change any of the other details you've provided, contact fuyubear#0765.
 
-Your custom organization will be located either alphabetically with other organizations or within the proper category along with other custom channels.
+Your restricted organization will be located either alphabetically with other organizations or within the proper category along with other restricted channels.
 
-Admins can bypass the custom channel's/organization's whitelist for admin purposes.
+Admins can bypass the restricted channel's/organization's allowlist for admin purposes.
 
 ## Guild Bots
 
@@ -347,9 +352,9 @@ Currently, the ricebear@Discord gulid has the following bots:
 
 - AutoDelete-ricebear. In some text channels, unpinned messages are deleted after a period of time.
 
-- owo. This is a 3rd-party bot not hosted by ricebear. This bot is exclusive to the osu organization, but will be kicked from the server soon.
-
 - Roleypoly. This is a 3rd-party bot not hosted by ricebear. Along with Red v3, it also manages self roles.
+
+- Mudae/Mudaemaid. This is a 3rd-party bot not hosted by ricebear. Its main function is a gacha game, accessable by members with Mudae Gacha Access.
 
 Before requesting a separate bot to join the guild, try looking for an [equivalent cog on cogboard.red](https://cogboard.red/t/approved-repositories/210).
 

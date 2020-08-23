@@ -290,7 +290,7 @@ Supporter benefits and their availability may change at any time, for any reason
 
 All perks received are optional to use.
 
-For Tier 1, the following perks will be given, at a rate of 2.50-4.99 USD per 2 months:
+For Tier 1, the following perks will be given, at a rate of 2.50-4.99 USD per month:
 
 - Exclusive cosmetic server icon (group) for Supporters.
 
