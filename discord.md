@@ -34,6 +34,8 @@ To go to the ricebear homepage, click [here](/).
   - [Any channel with P suffix](#any-channel-with-p-suffix)
 
   - [Any channel with E suffix](#any-channel-with-e-suffix)
+
+  - [Any channel with L suffix](#any-channel-with-l-suffix)
 - [User Roles and Perks](#user-roles-and-perks-1)
 
   - [Ring System](#ring-system)
@@ -112,6 +114,7 @@ Anyone who is new and joins the server is by default a Ring 5 user (role-less). 
 
 🎤 Main Voice
 |
+|-----Ch.1L / AFK
 |-----Ch.0H / Public Space
 ```
 
@@ -132,6 +135,7 @@ You'll need to be Ring 4 or above to gain access to more channels. Once you reac
 
 🎤 Main Voice
 |
+|-----Ch.1L / AFK
 |-----Ch.1H
 |-----Ch.2H
 |-----Ch.3H
@@ -220,6 +224,10 @@ These channels are restricted (private). Only allowed users are able to join the
 ### Any channel with E suffix
 
 These channels are dedicated to special events in our guild. Some of these channels have allowlists that work like the ones found in the channels with a P suffix.
+
+### Any channel with L suffix
+
+These are designated AFK channels. It's not possible to talk in them. After an hour of inactivity, you will be automatically moved there.
 
 ## User Roles and Perks
 
