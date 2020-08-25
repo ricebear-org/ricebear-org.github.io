@@ -157,7 +157,7 @@ Currently, there are two active server advisories.
 
 ### 2020-08-25: 8/25-8/27 Limited Access to ricebear@TS3
 
-**ricebear@TS3 will not be usable from 8/25-8/27; in the meantime, feel free to join in the Discord guild's "Discord Nights" by using the voice channels there.** During this period, you won't be able to leave the lobby channel. The restrictions are needed, because Vultr, our server host, will be conducting maintenance within the datacenter our server is in to (hopefully) resolve recent network instability experienced by several users of ricebear@TS3. Sorry for any inconveniences caused from this.
+**ricebear@TS3 will not be usable from 8/25-8/27; in the meantime, feel free to join during the Discord guild's "Discord Nights" by using the voice channels there.** During this period, you won't be able to leave the lobby channel. The restrictions are needed, because Vultr, our server host, will be conducting maintenance within the datacenter our server is in to (hopefully) resolve recent network instability experienced by several users of ricebear@TS3. Sorry for any inconveniences caused from this.
 
 ### 2020-08-21: Potential Shutdown of ricebear@TS3
 
