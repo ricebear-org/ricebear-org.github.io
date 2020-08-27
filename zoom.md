@@ -10,7 +10,7 @@ This setup allows you to record Zoom meetings without showing your other monitor
 
 Tested with OBS 25.0.8, GTX 1070 Ti (Driver 452.06), Zoom 5.2.1 (44052.0816), and Windows 10 2004.
 
-The zoom720p10fps folder is the profile loaded into OBS, while the zoom720p10fpsscenes.json file is for the scenes.
+The zip package is available [here](/zoom/zoom-package.zip). The zoom720p10fps folder is the profile loaded into OBS, while the zoom720p10fpsscenes.json file is for the scenes.
 
 **Note: the Output -> Streaming settings are tweaked for Nvidia GPUs only. If you use QuickSync, AMF, or CPU (x264) encoding, you may need to use different Output -> Streaming settings to maintain visual fidelity.**
 
