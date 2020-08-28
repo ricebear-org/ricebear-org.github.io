@@ -136,9 +136,9 @@ You'll need to be Ring 4 or above to gain access to more channels. Once you reac
 🎤 Main Voice
 |
 |-----Ch.1L / AFK
-|-----Ch.1H
-|-----Ch.2H
-|-----Ch.3H
+|-----Ch.1S
+|-----Ch.2S
+|-----Ch.3S
 |-----Ch.0H / Public Space
 ```
 
@@ -146,15 +146,15 @@ You can gain access to more channels through joining organizations (see next sec
 
 ### Join Organizations
 
-Once you become Ring 4, you can gain access to more topic-specific channels by joining organizations, which are listed under #org-list, or under the command "r;selfrole list". If the organizationsis joinable, feel free to join it by sending the provided text command in any text channel where Red-v3-ricebear is present in. You can alternatively use [https://roleypoly.com](https://roleypoly.com) and login with your Discord account to manage self roles there.
+Once you become Ring 4, you can gain access to more topic-specific channels by joining organizations, which are listed under #org-list, or under the command "r;selfrole list". If the organizationsis joinable, feel free to join it by sending the provided text command in any text channel where Red-v3-ricebear is present in.
 
-For example, if you want to join the PC Master Race Organization. Here's what you should do:
+For example, if you want to join the Cars Organization, here's what you should do:
 
 1. Check #org-list to see if the organization is joinable.
 
-2. Since the organization is joinable, you can type in the proper selfrole command in any text channel where Red-v3-ricebear is available, which is "r;selfrole add pmr". You can also log into [https://roleypoly.com](https://roleypoly.com) with your Discord account, and toggle the pmr role there.
+2. Since the organization is joinable, you can type in the proper selfrole command in any text channel where Red-v3-ricebear is available, which is "r;selfrole add cars".
 
-3. You should now see the #pmr-discuss channel, the only channel associated with the PC Master Race organization. To remove your membership from pmr, you can either use "r;selfrole remove pmr" or toggle the role off on [https://roleypoly.com](https://roleypoly.com)
+3. You should now see the #cars-discuss channel, the only channel associated with the Cars organization. To remove your membership from the Cars organization, you can use "r;selfrole remove cars".
 
 If you have an idea/request for an organization/channel, send it to fuyubear#0765. However, if the organization/channel requires restrictions on who can join (besides being at least Ring 4, the base restriction on almost every channel), the organization/channel won't be created unless you are an active Supporter. Any idea/request that is a direct result in a rule violation will be rejected, no matter if you are a Supporter or not. See the [ricebear Supporter](#ricebear-supporter) section for more.
 
@@ -187,47 +187,47 @@ As mods, we first take action through peaceful mediation. Only, and only if peac
 
 ## Voice Channel Info
 
-Descriptions about each voice channel type at ricebear@Discord. These prefixes apply to voice channels that are in either the Main Voice or the Org Voice categories. This naming scheme may not apply anywhere else.
+Descriptions about each voice channel type at ricebear@Discord. These prefixes apply to voice channels that are in either the Main Voice or the Org Voice categories. This naming scheme may not apply in other categories. The channel type naming has been inherited from our TeamSpeak server.
+
+### Any channel with S suffix
+
+Originally designated for music playing, these channels now make up the main portion of the voice channels. The S stands for Studio.
+
+The bitrate and codec is 96 kbps Opus 1.3 CBR.
 
 ### Any channel with H suffix
 
-These channels have increased sound quality over Reg. Talk Channels. Extremely weak internet connections may not have a good connection to other services with the use of these channels. These channels may use your ISP's data quota close to (or less than) other competing VoIP services, but these channels still use more data than the Reg. Talk Channels.
+These channels share the same bitrate as our TeamSpeak server voice channels. The H stands for High-quality.
 
 The bitrate and codec is 64 kbps Opus 1.3 CBR.
 
 ### Any channel with R suffix
 
-These channels are optimized to use less of your ISP's data quota and your bandwidth compared to other competing VoIP services. This bitrate is a sweet spot for balancing bitrate and quality. Extremely weak connections may be able to have a better connection to other services with the use of these channels.
+These channels share the same bitrate with the TeamSpeak voice channels that existed around the beginning of ricebear's existence, when our server was hosted on a 1 Mbps line. The R stands for Regular.
 
 The bitrate and codec is 36 kbps Opus 1.3 CBR.
 
 ### Any channel with X suffix
 
-Alternative to the S channels. While Supporters can only see these channels, everyone else can join by being moved into it by a Supporter. These channels are geared for music use and use as much data as an internet radio. Users with extremely weak connections should not use these channels. **Only Discord bot voice output (can use the Opus Music tune) will take advantage of this bitrate, due to the fact that Discord user clients are restricted to the Opus Voice tune.**
+Alternative to the S channels. While Supporters can only see these channels, everyone else can join by being moved into it by a Supporter. These channels are geared for music use and use as much data as an internet radio. Users with extremely weak connections should not use these channels. **Only Discord bot voice output (can use the Opus Music tune and stereo audio output) will take advantage of this bitrate, due to the fact that Discord user clients are restricted to the Opus Voice tune and mono audio output.** The X stands for Xtreme.
 
 The bitrate and codec is 128 kbps Opus 1.3 CBR.
 
-### ~~Any channel with S suffix~~ (not available on Discord)
-
-~~These channels are geared for music use and use as much data as an internet radio. These channels are discouraged to be used for voice chat. Users with extremely weak connections should not use these channels. **Only Discord bot voice output (can use the Opus Music tune) will take advantage of this bitrate, due to the fact that Discord user clients are restricted to the Opus Voice tune.**~~
-
-~~The bitrate and codec is 96 kbps Opus 1.3 CBR.~~
-
 ### Any channel with V suffix
 
-These channels can have bitrates modified by their channel owners at any time.
+These channels can have bitrates modified by their channel owners at any time. The V stands for Variable.
 
 ### Any channel with P suffix
 
-These channels are restricted (private). Only allowed users are able to join the channels they are allowed to join. The allowed users are controlled by the Channel Owners in their respective channels. Restricted (private) channel creation is currently exclusive to Supporters.
+These channels are restricted (private). Only allowed users are able to join the channels they are allowed to join. The allowed users are controlled by the Channel Owners in their respective channels. Restricted (private) channel creation is currently exclusive to Supporters. The P stands for Private.
 
 ### Any channel with E suffix
 
-These channels are dedicated to special events in our guild. Some of these channels have allowlists that work like the ones found in the channels with a P suffix.
+These channels are dedicated to special events in our guild. Some of these channels have allowlists that work like the ones found in the channels with a P suffix. The E stands for Event.
 
 ### Any channel with L suffix
 
-These are designated AFK channels. It's not possible to talk in them. After an hour of inactivity, you will be automatically moved there.
+These are designated AFK/Lobby channels. It's not possible to talk in them. After an hour of inactivity, you will be automatically moved there. The L stands for Lobby.
 
 ## User Roles and Perks
 
