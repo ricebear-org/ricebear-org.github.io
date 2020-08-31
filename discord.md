@@ -17,7 +17,7 @@ To go to the ricebear homepage, click [here](/).
   - [User Roles and Perks](#user-roles-and-perks)
 
   - [Recommended Applications/Apps to Install](#recommended-applicationsapps-to-install)
-- [Supported Discord Clients](#supported-discord-clients)
+- [Supported Discord Clients/Mods](#supported-discord-clients-mods)
 
 - [Moderation Philosophy](#moderation-philosophy)
 
@@ -173,11 +173,11 @@ Ring 1-3 users in this guild have come to a general consensus as to what program
 | mpv        | Fastest and leanest media player.                                                                                | [https://mpv.io](https://mpv.io)                                                                     |
 | Syncplay   | Watch local and streaming videos together. The server is at syncplay.ricebear.org                                | [https://syncplay.pl](https://syncplay.pl)                                                           |
 | youtube-dl | Makes internet videos work with Syncplay and mpv.                                                                | [https://ytdl-org.github.io/youtube-dl/index.html](https://ytdl-org.github.io/youtube-dl/index.html) |
-| TeamSpeak  | Another voice chatting platform that ricebear has a communication hub for. [Here is our TS server webpage!](/ts) | [https://teamspeak.com](https://teamspeak.com)                                                       |
+| TeamSpeak  | Another voice chatting platform that ricebear has a communication hub for. [Here is our TS server webpage!](/ts.html) | [https://teamspeak.com](https://teamspeak.com)                                                       |
 
-## Supported Discord Clients
+## Supported Discord Clients/Mods
 
-This section might be a bit of a bait, since our guild only supports Discord's official clients (Stable, PTB, and Canary). If you run into any issues with the official clients, be sure to bring it up either through Discord's support team or through the Discord Testers Server (server code is *discord-testers*). If you have issues with unofficial clients (Ripcord, BetterDiscord, BeautifulDiscord, Powercord, etc), you'll be asked to use the official clients instead.
+Only official clients (Stable, PTB, Canary) without mods (this means no custom CSS injection) are supported. Use unofficial clients/mods (Ripcord, BetterDiscord, BandagedBD, BeautifulDiscord, Powercord, cordless, Discline, discord-term, Glasscord, etc) at your own risk.
 
 ## Moderation Philosophy
 
@@ -359,8 +359,6 @@ Currently, the ricebear@Discord gulid has the following bots:
 - Red v3 (known as Red-v3-ricebear). This bot has multiple functions; type "r;help" to see its commands.
 
 - AutoDelete-ricebear. In some text channels, unpinned messages are deleted after a period of time.
-
-- Roleypoly. This is a 3rd-party bot not hosted by ricebear. Along with Red v3, it also manages self roles.
 
 - Mudae/Mudaemaid. This is a 3rd-party bot not hosted by ricebear. Its main function is a gacha game, accessable by members with Mudae Gacha Access.
 
