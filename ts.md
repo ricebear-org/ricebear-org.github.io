@@ -153,15 +153,13 @@ We hope that you will love this server as much as we do. Enjoy!
 
 Active server advisories are posted here to guide users whenever anything associated with the server needs careful user attention. Whenever server advisories are posted, users will be pointed to this section of the document through appropriate contact channels.
 
-Currently, there are two active server advisories.
+Currently, there is one active server advisory.
 
-### 2020-08-25: 8/25-8/27 Limited Access to ricebear@TS3
+### 2020-09-18: Potential Shutdown of ricebear@TS3 Update
 
-**ricebear@TS3 will not be usable from 8/25-8/27; in the meantime, feel free to join during the Discord guild's "Discord Nights" by using the voice channels there.** During this period, you won't be able to leave the lobby channel. The restrictions are needed, because Vultr, our server host, will be conducting maintenance within the datacenter our server is in to (hopefully) resolve recent network instability experienced by several users of ricebear@TS3. Sorry for any inconveniences caused from this.
+Unless TeamSpeak devs give us a juicy beta build, the TS server will shut off on **Oct 11 2020 at 12:01am UTC**. This is NOT EST/EDT/NY Time! In the New York time zone, this converts to **Oct 10 2020 at 8:01pm**. Leading up to this time, the server will hold a TS Farewell Party starting **Oct 10 2020 11pm UTC / 7pm EST**.
 
-### 2020-08-21: Potential Shutdown of ricebear@TS3
-
-Most of our active TS users have unanimously decided to sunset (shutdown) the TS server by the end of this year (Dec 2020), unless TeamSpeak makes major progress on their new TeamSpeak client. Leading up until that point of time, the server may be downsized to accommodate the new convention of using Discord for a majority of activities, both voice and text.
+Initially posted on 2020-08-21, last updated on 2020-09-18.
 
 ## Officially Supported TS Clients
 
