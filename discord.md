@@ -2,7 +2,7 @@
 
 To go to the ricebear homepage, click [here](/).
 
-**Join the ricebear Discord:** [https://discord.gg/BwW9Q25](https://discord.gg/BwW9Q25)
+**Join the ricebear Discord:** must be invited by a Ring 3 or above (a Member) or apply to join. The application process will be open when it is ready.
 
 ## Table of Contents
 
@@ -29,6 +29,8 @@ To go to the ricebear homepage, click [here](/).
 
   - [Any channel with X suffix](#any-channel-with-x-suffix)
 
+  - [Any channel with XX suffix](#any-channel-with-xx-suffix)
+
   - [Any channel with V suffix](#any-channel-with-v-suffix)
 
   - [Any channel with P suffix](#any-channel-with-p-suffix)
@@ -53,15 +55,17 @@ To go to the ricebear homepage, click [here](/).
 
 ## Getting Started
 
-The first step is to join the guild using [this join link](https://discord.gg/BwW9Q25) or use the join code *BwW9Q25*. Upon joining, new users will start at Ring 5 (this doesn't have a dedicated role) unless they have a different Ring status. **There may be times when this guild is closed to new users. This page will update when that happens.** Read over the Guild Rules, either in #rules, or on this page.
+Presently, new users are only invited by a current member (Ring 3 or above) of our guild. In the future, there will be an opportunity to join through an application process.
+
+Upon joining, new users will start at Ring 5 (this doesn't have a dedicated role) unless they have a different Ring status. **There may be times when this guild is closed to new users. This page will update when that happens.** Read over the Guild Rules, either in #rules, or on this page.
 
 ### Guild Rules
 
-**Prelude: If a higher level user misuses their powers, please report the incident to fuyubear#0765 on Discord and/or by email to fuyubear+rbdiscord`at`protonmail.com.**
+**Prelude: If you need to appeal any moderation punishments (kicks/bans), please report the incident to fuyubear#0765 on Discord and/or by email to fuyubear+rbdiscord`at`protonmail.com.**
 
 Rule 0: New users starting at Ring 5 must go through a "Gate Entry" process in order to become members of this community. This is done through being promoted through the Ring System. All new users must know that to pass this process, you basically need to introduce yourself and hang out with the community in #public and/or "Ch.0H / Guest Space". After a few days, you should be promoted to Ring 4, gaining access to join more channels. See more at [Server Layout and Channel Visibility](#server-layout-and-channel-visibility).
 
-Rule 1: stay good towards each other. In other words, don't create toxicity, and don't treat others the way you don't want to be treated. Keep in mind that banter towards someone else is okay as long as they are cool with it. If they don't like it, it's considered harassment and is not welcome here.
+Rule 1: stay good towards each other. In other words, don't create toxicity, and don't treat others the way you don't want to be treated. Keep in mind that banter towards someone else is okay as long as they are cool with it. If they don't like it, it's considered harassment and is not welcome here. It's worth noting that some users (including you) may have different perspectives and mannerisms, but it's best not to follow through them if they cause issues.
 
 Rule 2: report any violations to Ring 1/2 users. If there is power abuse, please take it up to fuyubear (contact at the top of this section).
 
@@ -95,7 +99,9 @@ Rule 3: do not break the [Discord's Community Guidelines](https://discordapp.com
 
 - You may not promote, distribute, or provide access to content involving the hacking, cracking, or distribution of pirated software or stolen accounts.
 
-- In general, **you should not promote, encourage or engage in any illegal behavior.** This is very likely to get you kicked off our Discord guild and Discord as a whole, and may get you reported to law enforcement.
+- Do not do anything that will put our guild and/or other members in trouble with Discord.
+
+Rule 4: please take specific and relevant topic/org to their own channels. In other words, if there is another channel to discuss a certain topic/org, you should bring those discussions there. The only exception is #public where any SFW topic can be discussed. Check #org-list to see which topics belong in which channels/orgs.
 
 ### Server Layout and Channel Visibility
 
@@ -138,9 +144,12 @@ You'll need to be Ring 4 or above to gain access to more channels. Once you reac
 |-----Ch.1L / AFK
 |-----Ch.1S
 |-----Ch.2S
-|-----Ch.3S
+|-----Ch.1X
+|-----Ch.1XX
 |-----Ch.0H / Public Space
 ```
+
+If you aren't an active Supporter yet, you can't join the [X/XX channels](#any-channel-with-x-suffix) without being moved in by [an active Supporter](#ricebear-supporter).
 
 You can gain access to more channels through joining organizations (see next section) and Ring System promotions.
 
@@ -171,9 +180,8 @@ Ring 1-3 users in this guild have come to a general consensus as to what program
 | AnyDesk    | Remote PC tool. Best in class for non-gaming remote PC purposes and host PCs with great CPU power.               | [https://anydesk.com](https://anydesk.com)                                                           |
 | Parsec     | Remote PC tool. Best in class for gaming remote PC purposes and host PCs with a modern GPU.                      | [https://parsecgaming.com](https://parsecgaming.com)                                                 |
 | mpv        | Fastest and leanest media player.                                                                                | [https://mpv.io](https://mpv.io)                                                                     |
-| Syncplay   | Watch local and streaming videos together. The server is at syncplay.ricebear.org                                | [https://syncplay.pl](https://syncplay.pl)                                                           |
+| Syncplay   | Watch local and streaming videos together.                                | [https://syncplay.pl](https://syncplay.pl)                                                           |
 | youtube-dl | Makes internet videos work with Syncplay and mpv.                                                                | [https://ytdl-org.github.io/youtube-dl/index.html](https://ytdl-org.github.io/youtube-dl/index.html) |
-| TeamSpeak  | Another voice chatting platform that ricebear has a communication hub for. [Here is our TS server webpage!](/ts.html) | [https://teamspeak.com](https://teamspeak.com)                                                       |
 
 ## Supported Discord Clients/Mods
 
@@ -209,9 +217,15 @@ The bitrate and codec is 36 kbps Opus 1.3 CBR.
 
 ### Any channel with X suffix
 
-Alternative to the S channels. While Supporters can only see these channels, everyone else can join by being moved into it by a Supporter. These channels are geared for music use and use as much data as an internet radio. Users with extremely weak connections should not use these channels. **Only Discord bot voice output (can use the Opus Music tune and stereo audio output) will take advantage of this bitrate, due to the fact that Discord user clients are restricted to the Opus Voice tune and mono audio output.** The X stands for Xtreme.
+Alternative to the S channels. While active Supporters can only join these channels, everyone else can join by being moved into it by a Supporter. These channels use as much data as an internet radio. Users with extremely weak connections should not use these channels. **Only Discord bot voice output (can use the Opus Music tune and stereo audio output) will take advantage of this bitrate, due to the fact that Discord user clients are restricted to the Opus Voice tune and mono audio output.** The X stands for Xtreme.
 
 The bitrate and codec is 128 kbps Opus 1.3 CBR.
+
+### Any channel with XX suffix
+
+Alternative to the S channels. While active Supporters can only join these channels, everyone else can join by being moved into it by a Supporter. These channels use as much data as an internet radio. Users with extremely weak connections should not use these channels. **Only Discord bot voice output (can use the Opus Music tune and stereo audio output) will take advantage of this bitrate, due to the fact that Discord user clients are restricted to the Opus Voice tune and mono audio output.**
+
+The bitrate and codec is 256 kbps Opus 1.3 CBR.
 
 ### Any channel with V suffix
 
@@ -233,7 +247,7 @@ These are designated AFK/Lobby channels. It's not possible to talk in them. Afte
 
 ### Ring System
 
-In ricebear, each user has a certain Ring (status) level, which ranges from 5 (lowest status) to 1 (highest status). The lower Ring a user is, the higher rank the user is. To advance in the hierarchy, just be active in the community and promotions will follow. In cases of community mergers where ricebear continues to maintain this system, users from their prior community may obtain equivalent Ring status from their prior community status.
+In ricebear, each user has a certain Ring (status) level, which ranges from 5 (lowest status) to 1 (highest status). The lower Ring a user is, the higher rank the user is. To advance in the hierarchy, just be active in the community and promotions will follow. To be a Ring 3, you must pass a Discord knowledge test, as the privileges of being a Ring 3 or above come with responsibility. In cases of community mergers where ricebear continues to maintain this system, users from their prior community may obtain equivalent Ring status from their prior community status.
 
 The Ring system is built to help users recognize active users. Ring status is retained and recognized throughout all of ricebear.
 
@@ -261,14 +275,15 @@ In this table, ✔ and❌are used to show perks User Roles have and don't have. 
 | Text Messaging(1)                                                           | ✔              | ✔                           | ✔               | ✔                          | ✔                   |
 | Connect and Speak in Public Voice Channels(1)                               | ✔              | ✔                           | ✔               | ✔                          | ✔                   |
 | Send Video Feed (Camera, Go Live) in Voice Channels                         | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
-| Change Nickname                                                             | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
 | Joining Organizations                                                       | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
 | Access During Restricted Mode(2)                                            | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
 | Move Users to Other Voice Channels and Disconnect Users from Voice Channels | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
 | Use @everyone, @here, @[role]                                               | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
-| Pin/Delete Messages                                                         | ❌              | ❌                           | ✔               | ✔                          | ✔                   |
-| Kicking Users Out of Channels/Guild(3)                                      | ❌              | ❌                           | ✔               | ✔                          | ✔                   |
+| Create Invite Links                                                         | ❌              | ❌                           | ✔               | ✔                          | ✔                   |
+| Change Nickname                                                             | ❌              | ❌                           | ✔               | ✔                          | ✔                   |
 | View Audit Log                                                              | ❌              | ❌                           | ✔               | ✔                          | ✔                   |
+| Manage Messages                                                             | ❌              | ❌                           | ✔               | ✔                          | ✔                   |
+| Kicking Users Out of Channels/Guild(3)                                      | ❌              | ❌                           | ✔               | ✔                          | ✔                   |
 | Banning Users(3)                                                            | ❌              | ❌                           | ❌               | ✔                          | ✔                   |
 | Activate Restricted Mode(2)                                                 | ❌              | ❌                           | ❌               | ❌                          | ✔                   |
 | Creating Channels(4)                                                        | ❌              | ❌                           | ❌               | ❌                          | ✔                   |
@@ -286,7 +301,7 @@ Notes:
 
 ### Other Roles
 
-There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on #org-list, can be joined by Ring 4 (and above) members through "r;selfrole" commands and [https://roleypoly.com](https://roleypoly.com).
+There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on #org-list, can be joined by Ring 4 (and above) members through "r;selfrole" commands.
 
 **Bot** and **3rd Party Bot** (and related) roles are reserved for bots only.
 
@@ -302,7 +317,7 @@ For Tier 1, the following perks will be given, at a rate of 2.50-4.99 USD per mo
 
 - Ability to request **a single** restricted voice/text channel (defined as a channel not joinable by any Ring 4), with a custom name, a choice of bitrate (voice channels only) and a configurable allowlist to pick the users who can access your channel. The maximum bitrate that a restricted voice channel can have is 64 kbps.
 
-- Access to X channels with 128 kbps (can let non-Supporters join by dragging them into the channel).
+- Access to X/XX channels with 128-256 kbps (can let non-Supporters join by dragging them into the channel).
 
 - Exclusive Supporter Tier 1 role.
 
@@ -360,7 +375,7 @@ Currently, the ricebear@Discord gulid has the following bots:
 
 - AutoDelete-ricebear. In some text channels, unpinned messages are deleted after a period of time.
 
-- Mudae/Mudaemaid. This is a 3rd-party bot not hosted by ricebear. Its main function is a gacha game, accessable by members with Mudae Gacha Access.
+- Mudae. This is a 3rd-party bot not hosted by ricebear. Its main function is a gacha game, accessable by members with Mudae Gacha Access.
 
 Before requesting a separate bot to join the guild, try looking for an [equivalent cog on cogboard.red](https://cogboard.red/t/approved-repositories/210).
 
