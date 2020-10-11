@@ -2,7 +2,6 @@
 
 <style>
 .message {
-  font-size: 50px;
   padding: 10px 0;
 }
 </style>
