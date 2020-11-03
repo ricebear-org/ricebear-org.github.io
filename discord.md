@@ -130,6 +130,7 @@ ricebear-org.github.io
 |-----Ch.1L / AFK
 |-----Ch.1S
 |-----Ch.2S
+|-----Ch.3S
 |-----Ch.1X
 |-----Ch.1XX
 
