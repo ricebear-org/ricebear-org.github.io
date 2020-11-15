@@ -241,11 +241,11 @@ The Ring system is built to help users recognize active users. Ring status is re
 
 - Ring 5: A non-member of ricebear. Also known as a Guest of ricebear.
 
-- Ring 4: An active prospective member of ricebear. This means that they want to be a member, but they aren't a member yet. With time and love, they will eventually become a member of ricebear.
+- Ring 4: An active prospective member of ricebear. This means that they want to be a member, but they aren't a member yet. With time and love, they will eventually become a member of ricebear (usually 4+ consecutive months of activity).
 
-- Ring 3: A full-fledged active member of ricebear. If a Ring 4 member as well as other higher ranked members feel good about each other, a Ring 4 user can be promoted to a Ring 3 user. Usually, this takes around 3-4 months.
+- Ring 3: A full-fledged active member of ricebear.
 
-- Ring 2: A widely trusted member of ricebear.
+- Ring 2: An active member of ricebear who has been here for a while.
 
 - Ring 1: Members who were present within ricebear's first 5 years of existence.
 
@@ -259,33 +259,29 @@ In this table, ✔ and❌are used to show perks User Roles have and don't have. 
 
 | Privilege                                                                   | Ring 5 (Guest) | Ring 4 (Prospective Member) | Ring 3 (Member) | Ring 2/1 (Member+/Founder) | Ring 0 (Admin Mode) |
 | --------------------------------------------------------------------------- | -------------- | --------------------------- | --------------- | -------------------------- | ------------------- |
-| Icon                                                                        | Yellow         | Half Yellow/Blue            | Blue            | Purple                     | Grey                |
-| Text Messaging(1)                                                           | ✔              | ✔                           | ✔               | ✔                          | ✔                   |
-| Connect and Speak in Public Voice Channels(1)                               | ✔              | ✔                           | ✔               | ✔                          | ✔                   |
+| Color                                                                       | White          | Yellow                      | Blue            | Purple                     | Red                 |
+| Text Messaging                                                              | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
+| Connect and Speak in Public Voice Channels                                  | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
 | Send Video Feed (Camera, Go Live) in Voice Channels                         | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
 | Joining Organizations                                                       | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
 | Access During Restricted Mode(2)                                            | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
-| Move Users to Other Voice Channels and Disconnect Users from Voice Channels | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
+| Move/Disconnect Users in Voice Channels                                     | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
 | Use @everyone, @here, @[role]                                               | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
-| Create Invite Links                                                         | ❌              | ❌                           | ❌               | ✔                          | ✔                   |
-| Change Nickname                                                             | ❌              | ❌                           | ✔               | ✔                          | ✔                   |
 | View Audit Log                                                              | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
+| Requesting Channels(1)                                                      | ❌              | ✔                           | ✔               | ✔                          | ✔                   |
+| Change Nickname                                                             | ❌              | ❌                           | ✔               | ✔                          | ✔                   |
 | Manage Messages                                                             | ❌              | ❌                           | ✔               | ✔                          | ✔                   |
-| Activate Restricted Mode(2)                                                 | ❌              | ❌                           | ❌               | ❌                          | ✔                   |
-| Creating Channels(4)                                                        | ❌              | ❌                           | ❌               | ❌                          | ✔                   |
+| Create Invite Links                                                         | ❌              | ❌                           | ❌               | ✔                          | ✔                   |
+| Opportunity to Gain Mod Privileges                                          | ❌              | ❌                           | ❌               | ✔                          | ✔                   |
 | Absolute Guild Control                                                      | ❌              | ❌                           | ❌               | ❌                          | ✔                   |
 
 Notes:
 
-1 - Ring 5 is restricted to messaging in the #public text channel and the Ch.0H / Guest Space voice channel.
-
-2 - Restricted Mode is when the guild blocks any activity from Ring 5 users and entry to new users.
-
-4 - This means creating channels without admin permission.
+1 - You can request the Moderation Team to create a public org/channel (joinable with r;selfrole). Private org/channels with restricted access require being an active Supporter.
 
 ### Other Roles
 
-There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on #org-list, can be joined by Ring 4 (and above) members through "r;selfrole" commands.
+There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on #org-list, can be joined by Ring 4 (and above) members through "r;selfrole" commands. Publically available roles are colored orange, private organization roles are colored yellow, and inactive organization roles are colored dark orange.
 
 **Bot** and **3rd Party Bot** (and related) roles are reserved for bots only.
 
@@ -357,7 +353,7 @@ Currently, the ricebear@Discord gulid has the following bots:
 
 - Red v3 (known as Red-v3-ricebear). This bot has multiple functions; type "r;help" to see its commands.
 
-- AutoDelete-ricebear. In some text channels, unpinned messages are deleted after a period of time.
+- AutoDelete-ricebear. Currently inactive. In some text channels, unpinned messages are deleted after a period of time.
 
 - Mudae. This is a 3rd-party bot not hosted by ricebear. Its main function is a gacha game, accessable by members with Mudae Gacha Access.
 
@@ -366,7 +362,7 @@ Before requesting a separate bot to join the guild, try looking for an [equivale
 For a bot to be eligible to join, all of these following requirements must be met to be available on main channels:
 
 - They must have a useful purpose.
-- They must be hostable on ricebear Server (in other words, must be self-hostable on a relatively low spec Linux server).
+- They must be hostable on ricebear Server (in other words, must be self-hostable on a relatively low spec server).
 - They must be configurable to not store excessive private data and send anonymized telemetry to a non-ricebear owned server. Having no telemetry is a plus.
 
 For organization channels, the only requirement is to be a useful bot.
