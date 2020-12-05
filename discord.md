@@ -69,11 +69,13 @@ These rules can also be viewed in #rules in our Discord guild.
 
 **Rule 1: Do not break Discord's Community Guidelines (https://discordapp.com/guidelines).** They apply to ALL Discord guilds, not just ours; if you've been in a public community guild (server), these should be familiar to you. If not, please review and understand them.
 
-**Rule 1.5: Do not do anything (like promoting racist/"alt-right"/threatening content) that can get our guild and its members in trouble with Discord Trust and Safety.** Discord Trust and Safety are notorious among its well-informed users for mass banning users from the entire service who are residing in guild(s) who fail to enforce parts of the Community Guidelines, even when said users are not active in that/these guild(s). They especially pay attention to racist and "alt-right" content. This means that this content is especially not welcome here. Violations for this rule are taken much more seriously than any other rule listed here.
+**Rule 1.5: Do not do anything (like promoting offensively racist/"alt-right"/threatening content in a good light) that can get our guild and its members in trouble with Discord Trust and Safety.** Discord Trust and Safety are notorious among its well-informed users for mass banning users from the entire service who are residing in guild(s) who fail to enforce parts of the Community Guidelines, even when said users are not active in that/these guild(s). They especially pay attention to racist and "alt-right" content. This means that this content is especially not welcome here. Violations for this rule are taken much more seriously than any other rule listed here.
 
 **Rule 2: Stay good towards each other.** In other words, don't create toxicity or trouble, and don't treat others the way you don't want to be treated. Keep in mind that banter towards someone else is okay as long as they are cool with it. It's worth noting that some users (including you) may have different perspectives and mannerisms, but it's best not to follow through them if they cause issues.
 
-**Rule 3: Keep topic-specific conversations in topic-specific channels. Check #org-list to make sure a topic is not restricted to a set of channel(s).** We aren't a high traffic guild, so this isn't enforced heavily, but if you are asked to take a conversation to the appropriate channel(s), please do so.
+**Rule 3: Try to keep topic-specific conversations in topic-specific channels. Check #org-list to make sure a topic is not restricted to a set of channel(s).** For now, depending on the topic, dropping a few things in general that could be elsewhere is okay as long as it's not annoying to people who are not opt-in to see certain topics. We aren't a high traffic guild, so this rule isn't enforced heavily, but if you are asked to take a conversation to the appropriate channel(s), please do so.
+
+**To be a part of this community, you must be recognized as a Ring 4 in our Ring System. See the post below for more.**
 
 **A brief explanation of the Ring System**:
 The Ring System establishes a way to identify active members, as well as creating a safety moat for ourselves. New users start at Ring 5 (Guest), and can work their way up to Ring 2 (Member+). Promotions are made through being active in our community, without causing trouble often.
@@ -87,7 +89,7 @@ Ring 5 - Guest (cannot access any usable channels, may be kicked from the server
 
 To see usable channels and participate in our community, you must have Ring 4 (Prospective Member), at a minimum. You can get this by:
  - having an invite (endorsement) from an existing Member+ (Ring 2 or above).
- - being accepted through a rigorous "staging" process. "Staging" will open during specific periods where users who may not have solid connections from in our community can apply to join. Any relevant notification regarding "staging" will be posted in #pr.
+ - being accepted through member verification. This process will open during specific periods where users who may not have solid connections from in our community can apply to join. Any relevant notifications regarding  this will be posted in #pr.
 
 If a Ring 5 (who joined after Oct 2020) fails to do this within 2 weeks, they may be contacted by the moderation team and/or be kicked from our guild.
 
@@ -147,15 +149,15 @@ You can gain access to more channels through joining organizations (see next sec
 
 ### Join Organizations
 
-Once you become Ring 4, you can gain access to more topic-specific channels by joining organizations, which are listed under #org-list, or under the command "r;selfrole list". If the organizationsis joinable, feel free to join it by sending the provided text command in any text channel where Red-v3-ricebear is present in.
+Once you become Ring 4, you can gain access to more topic-specific channels by joining organizations, which are listed under #org-list. If the organizationsis joinable, feel free to join it by sending the provided text command in any text channel where Red-v3-ricebear is present in.
 
-For example, if you want to join the Cars Organization, here's what you should do:
+For example, if you want to join the Fitness organization, here's what you should do:
 
 1. Check #org-list to see if the organization is joinable.
 
-2. Since the organization is joinable, you can type in the proper selfrole command in any text channel where Red-v3-ricebear is available, which is "r;selfrole add cars".
+2. Since the organization is joinable, you can type in the proper selfrole command in any text channel where Red-v3-ricebear is available, which is "r;selfrole add fitness".
 
-3. You should now see the #cars-discuss channel, the only channel associated with the Cars organization. To remove your membership from the Cars organization, you can use "r;selfrole remove cars".
+3. You should now see the #fitness channel. To remove your membership from the fitness organization (and no longer see the organization's associated channels), you can use "r;selfrole remove fitness".
 
 If you have an idea/request for an organization/channel, send it to the Moderation Team. However, if the organization/channel requires restrictions on who can join (besides being at least Ring 4, the base restriction on almost every channel), the organization/channel won't be created unless you are an active Supporter. Any idea/request that is a direct result in a rule violation will be rejected, no matter if you are a Supporter or not. See the [ricebear Supporter](#ricebear-supporter) section for more.
 
@@ -355,17 +357,19 @@ Currently, the ricebear@Discord gulid has the following bots:
 
 - AutoDelete-ricebear. Currently inactive. In some text channels, unpinned messages are deleted after a period of time.
 
-- Mudae. This is a 3rd-party bot not hosted by ricebear. Its main function is a gacha game, accessable by members with Mudae Gacha Access.
+- Mudae. This is a 3rd-party bot not hosted by ricebear. Its main function is a gacha game, accessable by members with Mudae Access.
+
+- The following 3rd-party music bots: FredBoat, Groovy, Hydra, Rythm, and Rythm 2.
 
 Before requesting a separate bot to join the guild, try looking for an [equivalent cog on cogboard.red](https://cogboard.red/t/approved-repositories/210).
 
-For a bot to be eligible to join, all of these following requirements must be met to be available on main channels:
+For a bot to be eligible to join, all of these following requirements must be met to be available on main-text channels:
 
 - They must have a useful purpose.
-- They must be hostable on ricebear Server (in other words, must be self-hostable on a relatively low spec server).
-- They must be configurable to not store excessive private data and send anonymized telemetry to a non-ricebear owned server. Having no telemetry is a plus.
+- They must be self hostable and open source.
+- They must be configurable to not store excessive private data and send anonymized telemetry to a non-ricebear owned server. Having no telemetry is a plus. Requested bots that require monitoring user activity when they have no business in doing so will not be accepted for any reason.
 
-For organization channels, the only requirement is to be a useful bot.
+For organization and voice channels, the only requirement is to be a useful bot.
 
 Once they are eligible to join, the Moderation Team will decide whether or not to add the requested bot in the future.
 
