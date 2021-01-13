@@ -281,7 +281,7 @@ In this table, ✔ and ❌ are generally used to show perks User Roles have and 
 | Create Invite Links                                                         | ❌              | ❌                        | ❌               | ✔                          | ✔                   | ✔                   |
 | Max Ring Level Management                                                   | ❌              | ❌                        | ❌               | 3                            | 3                    | 0                    |
 | Opportunity to Gain Mod Privileges                                          | ❌              | ❌                        | ❌               | ✔                          | ✔                   | ✔                   |
-| Kick/Ban Members                                                            | ❌              | ❌                        | ❌               | ✔                          | ✔                   | ✔                   |
+| Kick/Ban Members                                                            | ❌              | ❌                        | ❌               | ❌                          | ✔                   | ✔                   |
 | Absolute Guild Control                                                      | ❌              | ❌                        | ❌               | ❌                          | ❌                   | ✔                   |
 
 Notes:
