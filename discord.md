@@ -256,7 +256,7 @@ The Ring system is built to help users recognize active users. Ring status is re
 
 - Mod Team: Members with ban/kick privileges.
 
-- Ring 0: Very trusted members who hold admin privileges.
+- Ring 0: Not considered a part of the Ring System. Indicates users with admin privileges.
 
 ### Perk Comparison Table
 
