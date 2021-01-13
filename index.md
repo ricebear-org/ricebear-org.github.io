@@ -1,14 +1,12 @@
 # Welcome to ricebear.
 
-We are a large group of friends who love to play games, watch anime, chill, and more!
+We are a group of friends who love to play games, watch anime, chill, and more!
 
 ## Join Us
 
-We have a Discord guild and a TeamSpeak server. You can find details about them, including how to join them, from the respective pages below:
+We have a dedicated Discord guild.
 
-[Discord](discord.md)
-
-[TeamSpeak](ts.md)
+[Learn more about our Discord guild here.](discord.md)
 
 ## About ricebear
 
