@@ -2,7 +2,7 @@
 
 To go to the ricebear homepage, click [here](/).
 
-**Join the ricebear Discord:** must be invited by a Ring 2 or above (a Member+) or apply to join, or be accepted through Membership Screening (coming 2021). Whenever this process is open, this page and #pr will be updated with details on how to begin.
+**Join the ricebear Discord:** must be invited by a member who is Ring 2 or above, or be accepted through Membership Screening (coming 2021). Whenever this process is open, this page and #pr will be updated with details on how to begin.
 
 ## Table of Contents
 
@@ -82,10 +82,11 @@ These rules can also be viewed in #rules in our Discord guild.
 **A brief explanation of the Ring System**:
 The Ring System establishes a way to identify active members, as well as creating a safety moat for ourselves. New users start at Ring 5 (Guest), and can work their way up to Ring 2 (Member+). Promotions are made through being active in our community, without causing trouble often.
 
+**Slow, yet significant changes are under way. This hierarchy may update in the near future.**
+
 Hierarchy:
-Moderation Team (self explanatory)
-Ring 1 - Founder (exclusive to sages who were here since the start, functionally the same as Ring 2)
-Ring 2 - Member+ (must be active for "quite some time", have an opportunity to join the moderation team, if desired)
+Ring 1 - Moderation Team (self explanatory)
+Ring 2 - Member+ (must be active for "quite some time", have an opportunity to join Ring 1, if desired)
 Ring 3 - Member (typically consecutive 4 months of frequent activity, at a minimum)
 Ring 4 - Prospective Member (must have this to gain access to usable channels)
 Ring 5 - Guest (cannot access any usable channels, may be kicked from the server if self-action is not taken to join our community)
@@ -152,17 +153,17 @@ You can gain access to more channels through joining organizations (see next sec
 
 ### Join Organizations
 
-Once you become Ring 4, you can gain access to more topic-specific channels by joining organizations, which are listed under #org-list. If the organization is joinable, feel free to join it by sending the provided text command in any text channel where Red-v3-ricebear is present in.
-
-For example, if you want to join the Fitness organization, here's what you should do:
+Once you become Ring 4, you can gain access to more topic-specific channels by joining organizations, which are listed under #org-list. If the organization is joinable, feel free to join it by clicking the appropriate emoji reaction in #org-text.
 
 1. Check #org-list to see if the organization is joinable.
 
-2. Since the organization is joinable, you can type in the proper selfrole command in any text channel where Red-v3-ricebear is available, which is "r;selfrole add fitness".
+2. If the organization is joinable, you can react with the appropriate emoji shown under the listing message.
 
-3. You should now see the #fitness channel. To remove your membership from the fitness organization (and no longer see the organization's associated channels), you can use "r;selfrole remove fitness".
+3. You should now see the appropriate channels.
 
-If you have an idea/request for an organization/channel, send it to the Moderation Team. However, if the organization/channel requires restrictions on who can join (besides being at least Ring 4, the base restriction on almost every channel), the organization/channel won't be created unless you are an active Supporter. Any idea/request that is a direct result in a rule violation will be rejected, no matter if you are a Supporter or not. See the [ricebear Supporter](#ricebear-supporter) section for more.
+To remove your membership from an organization, you can remove your reaction under the same listing message in #org-list.
+
+If you have an idea/request for an organization/channel, send it to a Ring 1 member. However, if the organization/channel requires restrictions on who can join (besides being at least Ring 4, the base restriction on almost every channel), the organization/channel won't be created unless you are an active Supporter. Any idea/request that is a direct result in a rule violation will be rejected, no matter if you are a Supporter or not. See the [ricebear Supporter](#ricebear-supporter) section for more.
 
 ### User Roles and Perks
 
@@ -177,34 +178,24 @@ Ring 1-3 users in this guild have come to a general consensus as to what program
 | AnyDesk    | Remote PC tool. Best in class for non-gaming remote PC purposes and host PCs with great CPU power.               | [https://anydesk.com](https://anydesk.com)                                                           |
 | Parsec     | Remote PC tool. Best in class for gaming remote PC purposes and host PCs with a modern GPU.                      | [https://parsecgaming.com](https://parsecgaming.com)                                                 |
 | mpv        | Fastest and leanest media player.                                                                                | [https://mpv.io](https://mpv.io)                                                                     |
-| Syncplay   | Watch local and streaming videos together.                                | [https://syncplay.pl](https://syncplay.pl)                                                           |
+| Syncplay   | Watch local and streaming videos together.                                                                       | [https://syncplay.pl](https://syncplay.pl)                                                           |
 | youtube-dl | Makes internet videos work with Syncplay and mpv.                                                                | [https://ytdl-org.github.io/youtube-dl/index.html](https://ytdl-org.github.io/youtube-dl/index.html) |
 
 ## Supported Discord Clients/Mods
 
-Only official clients (Stable, PTB, Canary) without mods (this means no custom CSS injection) are supported. Use unofficial clients/mods (Ripcord, BetterDiscord, BandagedBD, BeautifulDiscord, Powercord, cordless, Discline, discord-term, Glasscord, Lightcord, etc) at your own risk.
+Only official clients (Stable, PTB, Canary) without mods (this means no custom CSS injection) are supported. Use unofficial clients/mods (Ripcord, BetterDiscord, BandagedBD, BeautifulDiscord, Powercord, cordless, Discline, discord-term, Glasscord, Lightcord, etc) [at your own risk](https://news.ycombinator.com/item?id=25214777).
 
 ## Voice Channel Info
 
 Descriptions about each voice channel type at ricebear@Discord. These prefixes apply to voice channels that are in either the Main Voice or the Org Voice categories. This naming scheme may not apply in other categories. The channel type naming has been inherited from our TeamSpeak server.
+
+Our voice server is currently set to the us-west GCP region. This means that you can either be connected to a server in Oregon or California, USA.
 
 ### Any channel with S suffix
 
 Originally designated for music playing, these channels now make up the main portion of the voice channels. The S stands for Studio.
 
 The bitrate and codec is 96 kbps Opus 1.3 CBR.
-
-### Any channel with H suffix
-
-These channels share the same bitrate as our TeamSpeak server voice channels. The H stands for High-quality.
-
-The bitrate and codec is 64 kbps Opus 1.3 CBR.
-
-### Any channel with R suffix
-
-These channels share the same bitrate with the TeamSpeak voice channels that existed around the beginning of ricebear's existence, when our server was hosted on a 1 Mbps line. The R stands for Regular.
-
-The bitrate and codec is 36 kbps Opus 1.3 CBR.
 
 ### Any channel with X suffix
 
@@ -242,6 +233,8 @@ In ricebear, each user has a certain Ring (status) level, which ranges from 5 (l
 
 The Ring system is built to help users recognize active users. Ring status is retained and recognized throughout all of ricebear.
 
+Slow, yet significant changes are under way to the Ring System. This hierarchy may update in the near future.
+
 **Descriptions for each Ring**:
 
 - Ring 5: A non-member of ricebear. Also known as a Guest of ricebear.
@@ -252,9 +245,7 @@ The Ring system is built to help users recognize active users. Ring status is re
 
 - Ring 2: An active member of ricebear who has been here for a while.
 
-- Ring 1: Members who were present within ricebear's first 5 years of existence.
-
-- Mod Team: Members with ban/kick privileges.
+- Ring 1: Trusted members with ban/kick privileges.
 
 - Ring 0: Not considered a part of the Ring System. Indicates users with admin privileges.
 
@@ -262,9 +253,9 @@ The Ring system is built to help users recognize active users. Ring status is re
 
 In this table, ✔ and ❌ are generally used to show perks User Roles have and don't have. Any of these perks may be revoked or changed at any time, either in the User Group level (table will be updated in this case) or on a single user basis. This is not a comprehensive list of every single permission enabled/disabled on Discord; just the key permissions. Perks may change within Organization channels; these changes aren't listed here.
 
-**Kicking/banning users are restricted to the Moderation Team. To be eligible to join, you must be at least Ring 2.**
+**Kicking/banning users are restricted to the Moderation Team. To be eligible to join, you must be a Ring 2 and pass a brief training session.**
 
-| Privilege                                                                   | Ring 5 (Guest) | Ring 4 (Prospective Member) | Ring 3 (Member) | Ring 2/1 (Member+/Founder) | Mod Team            | Ring 0              |
+| Privilege                                                                   | Ring 5 (Guest) | Ring 4 (Prospective Member) | Ring 3 (Member) | Ring 2 (Member+) | Ring 1 (Mod Team)            | Ring 0              |
 | --------------------------------------------------------------------------- | -------------- | --------------------------- | --------------- | -------------------------- | ------------------- | ------------------- |
 | Color                                                                       | White/Black    | Yellow                      | Blue            | Purple                     | Orange              |    Red
 | Text Messaging                                                              | ❌              | ✔                        | ✔               | ✔                          | ✔                   | ✔                   |
@@ -282,15 +273,16 @@ In this table, ✔ and ❌ are generally used to show perks User Roles have and 
 | Max Ring Level Management                                                   | ❌              | ❌                        | ❌               | 3                            | 3                    | 0                    |
 | Opportunity to Gain Mod Privileges                                          | ❌              | ❌                        | ❌               | ✔                          | ✔                   | ✔                   |
 | Kick/Ban Members                                                            | ❌              | ❌                        | ❌               | ❌                          | ✔                   | ✔                   |
+| Bypass Organization Membership Gates                                        | ❌              | ❌                        | ❌               | ❌                          | ✔                   | ✔                   |
 | Absolute Guild Control                                                      | ❌              | ❌                        | ❌               | ❌                          | ❌                   | ✔                   |
 
 Notes:
 
-1 - You can request the Moderation Team to create a public org/channel (joinable with r;selfrole). Private org/channels with restricted access require being an active Supporter.
+1 - You can request the Moderation Team to create a public org/channel (joinable in #org-text). Private org/channels with restricted access require being an active Supporter.
 
 ### Other Roles
 
-There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on #org-list, can be joined by Ring 4 (and above) members through "r;selfrole" commands. Publically available roles are colored orange, private organization roles are colored yellow, and inactive organization roles are colored dark orange.
+There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on #org-list, can be joined by Ring 4 (and above) members through #org-text reactions. Publically available roles are colored orange, private organization roles are colored yellow, and inactive organization roles are colored dark orange.
 
 **Bot** and **3rd Party Bot** (and related) roles are reserved for bots only.
 
@@ -301,6 +293,8 @@ Roles and their functions can change at any time. Any major changes will be anno
 The ricebear Server (not the same as the Discord guild) used to host our own bots from costs money to run. We host our own instances of bots whenever possible to keep our Discord guild stable and safe. We also want to improve our server's functionality through Discord Boosting. To keep the server online and with enhanced functionality, we rely on monetary donations. Giving a donation to ricebear helps the ricebear Server and our guild continue to thrive and live into the near future, and also grants you special (time-limited) perks within the guild. Contact the Moderation Team in the guild for details on how to donate. We appreciate your support!
 
 Supporter benefits and their availability may change at any time, for any reason.
+
+**Tier 1 is currently not available. Tiers 2-3 are still available.**
 
 For Tier 1, the following perks will be given, at a rate of 2.50-4.99 USD per month:
 
@@ -338,9 +332,9 @@ Upon the end of your Supporter period, the Active Supporter role will be replace
 
 ### Restricted Channel/Organization Guide
 
-This functionality requires Supporter Tier 2.
+This functionality requires Supporter, or at least Ring 2.
 
-To activate your restricted organization, just simply send the following details to fuyubear#0765:
+To activate your restricted organization, just simply send the following details to haradatakumi_yo#0765:
 
 1. Channel name(s) and purpose(s)
 
@@ -350,23 +344,23 @@ To activate your restricted organization, just simply send the following details
 
 4. [Tier 2-3 Only] Organization name and purpose
 
-You can configure users who can join your restricted channels using the `r;cc` commands, and who are in your restricted organization (thus changing access to the restricted organization's channels) with the `r;role` commands (Tier 2-3 Only). Just typing either of those commands will show a prompt for the subcommands that you can use. To change any of the other details you've provided, contact the Moderation Team.
+~~You can configure users who can join your restricted channels using the r;cc~~ (cc commands are discontinued), and who are in your restricted organization (thus changing access to the restricted organization's channels) with the `/role` commands (only for Supporter Tier 2-3, Ring 2 or above). After typing a slash, Discord will show subcommands that you can use (add/remove members, etc). To change any of the other details you've provided, contact a Ring 1 member.
 
 Your restricted organization will be located either alphabetically with other organizations or within the proper category along with other restricted channels.
 
-Admins can bypass the restricted channel's/organization's allowlist for admin purposes.
+Ring 1 members can bypass the restricted channel's/organization's allowlist for admin purposes.
 
 ## Guild Bots
 
 Currently, the ricebear@Discord gulid has the following bots: 
 
-- Red v3 (known as Red-v3-ricebear). This bot has multiple functions; type "r;help" to see its commands.
+- AquaBot (formerly known as Red-v3-ricebear). This bot has multiple functions; type `.help` or `/` to see its commands.
 
 - Mudae. This is a 3rd-party bot not hosted by ricebear. Its main function is a gacha game, accessable by members with Mudae Access.
 
-- The following 3rd-party music bots: FredBoat, Groovy, Hydra, Rythm, and Rythm 2.
+- The following 3rd-party music bots: FredBoat, Hydra, Rythm, and Rythm 2.
 
-Before requesting a separate bot to join the guild, try looking for an [equivalent cog on cogboard.red](https://cogboard.red/t/approved-repositories/210).
+Before requesting a separate bot to join the guild, try looking for an [equivalent cog on index.discord.red](https://index.discord.red).
 
 For a bot to be eligible to join, all of these following requirements must be met to be available on main-text channels:
 
@@ -376,7 +370,7 @@ For a bot to be eligible to join, all of these following requirements must be me
 
 For organization and voice channels, the only requirement is to be a useful bot.
 
-Once they are eligible to join, the Moderation Team will decide whether or not to add the requested bot in the future.
+Once they are eligible to join, Ring 1 members will decide whether or not to add the requested bot in the future.
 
 ## Special Credits
 
