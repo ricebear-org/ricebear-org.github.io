@@ -85,11 +85,16 @@ The Ring System establishes a way to identify active members, as well as creatin
 **Slow, yet significant changes are under way. This hierarchy may update in the near future.**
 
 Hierarchy:
-Ring 1 - Moderation Team (self explanatory)
-Ring 2 - Member+ (must be active for "quite some time", have an opportunity to join Ring 1, if desired)
-Ring 3 - Member (typically consecutive 4 months of frequent activity, at a minimum)
-Ring 4 - Prospective Member (must have this to gain access to usable channels)
-Ring 5 - Guest (cannot access any usable channels, may be kicked from the server if self-action is not taken to join our community)
+
+- Ring 1 - Moderation Team (self explanatory)
+
+- Ring 2 - Member+ (must be active for "quite some time", have an opportunity to join Ring 1, if desired)
+
+- Ring 3 - Member (typically consecutive 4 months of frequent activity, at a minimum)
+
+- Ring 4 - Prospective Member (must have this to gain access to usable channels)
+
+- Ring 5 - Guest (cannot access any usable channels, may be kicked from the server if self-action is not taken to join our community)
 
 To see usable channels and participate in our community, you must have Ring 4 (Prospective Member), at a minimum. You can get this by:
  - having an invite (endorsement) from an existing Member+ (Ring 2 or above).
