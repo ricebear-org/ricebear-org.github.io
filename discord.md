@@ -29,6 +29,8 @@ To go to the ricebear homepage, click [here](/).
 
   - [Other Roles](#other-roles)
 
+  - [Ring Promotion/Demotion Guide](#ring-promotiondemotion-guide)
+
 - [ricebear Supporter](#ricebear-supporter)
 
   - [Private Channel/Organization Guide](#private-channelorganization-guide)
@@ -38,9 +40,7 @@ To go to the ricebear homepage, click [here](/).
 
 ## Getting Started
 
-Presently, new users are only invited by a current Member+ (Ring 2 or above) of our guild. In the future, there will be an opportunity to apply to join through Membership Screening (coming 2021).
-
-Upon joining, new users will start at Ring 5 (this doesn't have a dedicated role) unless they have a different Ring status upon joining.
+Presently, new users are only invited by a current Member (Ring 2 or above) of our guild. In the future, there will be an opportunity to apply to join through Membership Screening (coming 2021).
 
 Read the rest of this section so that you are familiar with how our guild works.
 
@@ -52,7 +52,7 @@ These rules can also be viewed in #rules in our Discord guild.
 
 **Please report any rule violations and reach out for help to the moderation team (members above). Because rule violations differ in severity, there is no consistent procedure to determine the severity and nature of actions decided by the moderation team. Please appeal if any moderation actions are unjustified.**
 
-**Rule 1: Do not break Discord's Community Guidelines (https://discordapp.com/guidelines).** They apply to ALL Discord guilds, not just ours; if you've been in a public community guild (server), these should be familiar to you. If not, please review and understand them.
+**Rule 1: Follow Discord's Community Guidelines (https://discordapp.com/guidelines).** Keep in mind that some guidelines have heavier weight than others (see Rule 1.5 for more).
 
 **Rule 1.5: Do not do anything (like promoting offensively racist/"alt-right"/threatening content in a good light) that can get our guild and its members in trouble with Discord Trust and Safety.** Discord Trust and Safety are notorious among its well-informed users for mass banning users from the entire service who are residing in guild(s) who fail to enforce parts of the Community Guidelines, even when said users are not active in that/these guild(s). They especially pay attention to racist and "alt-right" content. This means that this content is especially not welcome here. Violations for this rule are taken much more seriously than any other rule listed here.
 
@@ -60,50 +60,30 @@ These rules can also be viewed in #rules in our Discord guild.
 
 **Rule 3: Try to keep topic-specific conversations in topic-specific channels. Check #org-list to make sure a topic is not preferred to be in a set of channel(s).** For now, depending on the topic, dropping a few things in general that could be elsewhere is okay as long as it's not annoying to people who are not opt-in to see certain topics. We aren't a high traffic guild, so this rule isn't enforced heavily, but if you are asked to take a conversation to the appropriate channel(s), please do so.
 
-**To be a part of this community, you must be recognized as a Ring 4 in our Ring System. See the post below for more.**
+**To be a part of this community, you must be a Ring 3. See below for more.**
 
 **A brief explanation of the Ring System**:
-The Ring System establishes a way to identify active members, as well as creating a safety moat for ourselves. New users start at Ring 5 (Guest), and can work their way up to Ring 2 (Member+). Promotions are made through being active in our community, without causing trouble often.
-
-**Slow, yet significant changes are under way. This hierarchy may update in the near future.**
+The Ring System recognizes active members and creates a safety moat for our guild. Usually, promotions come from active guild activity, while demotions (Ring Decay) come from extremely long inactivity.
 
 Hierarchy:
 
 - Ring 1 - Moderation Team (self explanatory)
 
-- Ring 2 - Member+ (must be active for "quite some time", have an opportunity to join Ring 1, if desired)
+- Ring 2 - Member (typically consecutive 4 months of frequent activity, at a minimum)
 
-- Ring 3 - Member (typically consecutive 4 months of frequent activity, at a minimum)
+- Ring 3 - New Member (must have this to gain access to usable channels)
 
-- Ring 4 - Prospective Member (must have this to gain access to usable channels)
+You can get Ring 3 by being invited by an existing member, or be accepted through an application process coming soon (tm). Updates on this process will be posted in #pr.
 
-- Ring 5 - Guest (cannot access any usable channels, may be kicked from the server if self-action is not taken to join our community)
-
-To see usable channels and participate in our community, you must have Ring 4 (Prospective Member), at a minimum. You can get this by:
- - having an invite (endorsement) from an existing Member+ (Ring 2 or above).
- - being accepted through member verification. This process will open during specific periods where users who may not have solid connections from in our community can apply to join. Any relevant notifications regarding  this will be posted in #pr.
-
-If a Ring 5 (who joined after Oct 2020) fails to do this within 2 weeks, they may be contacted by the moderation team and/or be kicked from our guild.
+If you joined after Oct 2020 and fail to get Ring 3 after a while, then a @Ring 1 will reach out to you and make sure you're in the right place.
 
 ### Server Layout and Channel Visibility
 
 There's a handful of channels on our server, with more to come. The server tries to reduce as much channel visibility as you can, so that the channels that you only care about come into view.
 
-Anyone who is new and joins the server is by default a Ring 5 user (role-less). They can only view a tiny subset of channels listed below:
+Anyone who is new and joins the server can only see #rules and #pr.
 
-```markdown
-ricebear-org.github.io
-
-📘 INFO
-|
-|-----#rules
-
-📣 PR
-|
-|-----#pr
-```
-
-You'll need to be Ring 4 or above to gain access to more channels. The default visibility and layout is as follows:
+Once you get Ring 3, you can see the channels listed as follows:
 
 ```markdown
 ricebear-org.github.io
@@ -112,7 +92,7 @@ ricebear-org.github.io
 |
 |-----#rules
 |-----#announcements
-|-----#org-list <----------- Please read here to see how to join a channel that has a restricted topic you want to talk about.
+|-----#org-list <----------- Read here to see how to join a channel that has a restricted topic you want to talk about.
 
 💬 main-text
 |
@@ -124,9 +104,9 @@ ricebear-org.github.io
 |-----Ch.1L / AFK
 |-----Ch.1S
 |-----Ch.2S
-|-----Ch.1X
-|-----Ch.2X
-|-----Ch.1XX
+|-----Ch.1X   <------ Join by getting Supporter or being moved by an active Supporter.
+|-----Ch.2X   <------ Join by getting Supporter or being moved by an active Supporter.
+|-----Ch.1XX  <------ Join by getting Supporter or being moved by an active Supporter.
 
 [If you join an org, channels will be located here.]
 
@@ -139,7 +119,7 @@ If you aren't an active Supporter yet, you can't join the [X/XX channels](#any-c
 
 ### Join Organizations to Access More Channels
 
-Once you are Ring 4, you can gain access to more channels through joining organizations (see next section) and Ring System promotions. In #org-list, you can click the appropriate emoji reaction on the message to join/leave a public organization. Joining a private organization requires permission from the listed organization manager.
+Once you are Ring 3, you can gain access to more channels through joining organizations (see next section) and Ring System promotions. In #org-list, you can click the appropriate emoji reaction on the message to join/leave a public organization. Joining a private organization requires permission from the listed organization manager.
 
 If you have an idea/request for an appropriate public organization/channel, send it to a Ring 1 member. To restrict membership, you must be an active Supporter. See the [ricebear Supporter](#ricebear-supporter) section for more.
 
@@ -149,7 +129,7 @@ Refer to this link [here](#user-groups-rings-and-perks-1) for more details about
 
 ### Recommended Applications/Apps to Install
 
-Ring 1-3 users in this guild have come to a general consensus as to what programs to use for certain inter-user tasks. As a new user, it's highly recommended to install these applications/apps for the best experience.
+Long time members have come to a general consensus as to what programs to use for certain inter-user tasks. As a new user, it's highly recommended to install these applications/apps for the best experience.
 
 | Name       | Use                                                                                                              | Website URL                                                                                          |
 | ---------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -161,7 +141,7 @@ Ring 1-3 users in this guild have come to a general consensus as to what program
 
 ## Supported Discord Clients/Mods
 
-Only official clients (Stable, PTB, Canary) without mods (this means no custom CSS injection) are supported. Use unofficial clients/mods (Ripcord, BetterDiscord, BandagedBD, BeautifulDiscord, Powercord, cordless, Discline, discord-term, Glasscord, Lightcord, etc) [at your own risk](https://news.ycombinator.com/item?id=25214777).
+**Only official clients (Stable, PTB, Canary) without mods (this means no custom CSS injection) are supported.** Use unofficial clients/mods (Ripcord, BetterDiscord, BandagedBD, BeautifulDiscord, Powercord, cordless, Discline, discord-term, Glasscord, Lightcord, etc) [at your own risk](https://news.ycombinator.com/item?id=25214777).
 
 ## Voice Channel Info
 
@@ -193,56 +173,51 @@ Suffixes may not be present in voice channels outside Main Voice.
 
 In ricebear, each user has a certain Ring (status) level, which ranges from 5 (lowest status) to 1 (highest status). The lower Ring a user is, the higher rank the user is. To advance in the hierarchy, just be active in the community without causing a lot of trouble and promotions will follow. In cases of community mergers where ricebear continues to maintain this system, users from their prior community may obtain equivalent Ring status from their prior community status, if applicable.
 
-The Ring system is built to help users recognize active users. Ring status is retained and recognized throughout all of ricebear.
+The Ring System recognizes active members and creates a safety moat for our guild. Usually, promotions come from active guild activity, while demotions (Ring Decay) come from extremely long inactivity.
 
-Slow, yet significant changes are under way to the Ring System. This hierarchy may update in the near future.
+**Ring System hierarchy**:
 
-**Descriptions for each Ring**:
+- Ring 1 - Moderation Team (self explanatory)
 
-- Ring 5: A non-member of ricebear. Also known as a Guest of ricebear.
+- Ring 2 - Member (typically consecutive 4 months of frequent activity, at a minimum)
 
-- Ring 4: An active prospective member of ricebear. This means that they want to be a member, but they aren't a member yet. With time and love, they will eventually become a member of ricebear (usually 4+ consecutive months of activity).
-
-- Ring 3: A full-fledged active member of ricebear.
-
-- Ring 2: An active member of ricebear who has been here for a while.
-
-- Ring 1: Trusted members with ban/kick privileges.
-
-- Ring 0: Not considered a part of the Ring System. Indicates users with admin privileges.
+- Ring 3 - New Member (must have this to gain access to usable channels)
 
 ### Perk Comparison Table
 
 In this table, ✔ and ❌ are generally used to show perks User Roles have and don't have. Any of these perks may be revoked or changed at any time, either in the User Group level (table will be updated in this case) or on a single user basis. This is not a comprehensive list of every single permission enabled/disabled on Discord; just the key permissions. Perks may change within Organization channels; these changes aren't listed here.
 
-| Privilege                                                                   | Ring 5 (Guest) | Ring 4 (Prospective Member) | Ring 3 (Member)  | Ring 2 (Member+) | Ring 1 (Mod Team)   | Ring 0              |
-| --------------------------------------------------------------------------- | -------------- | --------------------------- | ---------------- | ---------------- | ------------------- | ------------------- |
-| Color                                                                       | White/Black    | Yellow                      | Blue             | Purple           | Orange              |    Red              |
-| Text Messaging                                                              | ❌              | ✔                        | ✔               | ✔              | ✔                   | ✔                |
-| Connect and Speak in Public Voice Channels                                  | ❌              | ✔                        | ✔               | ✔              | ✔                   | ✔                |
-| Send Video Feed (Camera, Go Live) in Voice Channels                         | ❌              | ✔                        | ✔               | ✔              | ✔                   | ✔                |
-| Joining Organizations                                                       | ❌              | ✔                        | ✔               | ✔              | ✔                   | ✔                |
-| Access During Restricted Mode(2)                                            | ❌              | ✔                        | ✔               | ✔              | ✔                   | ✔                |
-| Move/Disconnect Users in Voice Channels                                     | ❌              | ✔                        | ✔               | ✔              | ✔                   | ✔                |
-| Use @everyone, @here, @[role]                                               | ❌              | ✔                        | ✔               | ✔              | ✔                   | ✔                |
-| View Audit Log                                                              | ❌              | ✔                        | ✔               | ✔              | ✔                   | ✔                |
-| Requesting Channels(1)                                                      | ❌              | ✔                        | ✔               | ✔              | ✔                   | ✔                |
-| Change Nickname                                                             | ❌              | ❌                        | ✔               | ✔              | ✔                   | ✔                |
-| Manage Messages                                                             | ❌              | ❌                        | ✔               | ✔              | ✔                   | ✔                |
-| Create Invite Links                                                         | ❌              | ❌                        | ❌               | ✔              | ✔                   | ✔                |
-| Max Ring Level Management                                                   | ❌              | ❌                        | ❌               | 3                | 3                    | 0                 |
-| Opportunity to Gain Mod Privileges                                          | ❌              | ❌                        | ❌               | ✔              | ✔                   | ✔                |
-| Kick/Ban Members                                                            | ❌              | ❌                        | ❌               | ❌              | ✔                   | ✔                |
-| Bypass Organization Membership Gates                                        | ❌              | ❌                        | ❌               | ❌              | ✔                   | ✔                |
-| Absolute Guild Control                                                      | ❌              | ❌                        | ❌               | ❌              | ❌                   | ✔                |
+| Privilege                                   | Ring 3 (Prospective Member) | Ring 2 (Member)  | Ring 1 (Mod Team)   |
+| ------------------------------------------- | --------------------------- | ---------------- | ------------------- |
+| Color                                       | Yellow                      | Green            | Purple              |
+| Main Text and Voice Access                  | ✔                         | ✔               | ✔                 |
+| Use Camera, Go Live in Voice Channels       | ✔                         | ✔               | ✔                 |
+| Joining Organizations                       | ✔                         | ✔               | ✔                 |
+| Access During Restricted Mode(1)            | ✔                         | ✔               | ✔                 |
+| Move/Disconnect Users in Voice Channels     | ✔                         | ✔               | ✔                 |
+| Use @everyone, @here, @[role]               | ✔                         | ✔               | ✔                 |
+| View Audit Log                              | ✔                         | ✔               | ✔                 |
+| Requesting Channels(2)                      | ✔                         | ✔               | ✔                 |
+| Change Nickname                             | ❌                         | ✔               | ✔                 |
+| Manage Messages                             | ❌                         | ✔               | ✔                 |
+| Create Invite Links                         | ❌                         | ✔               | ✔                 |
+| Max Ring Level Management                   | ❌                         | Up to Ring 3     | Up to Ring 2        |
+| Kick/Ban Members                            | ❌                         | ❌               | ✔                 |
+| Bypass Organization Membership Gates        | ❌                         | ❌               | ✔                 |
 
 Notes:
 
-1 - You can request the Moderation Team to create a public org/channel (joinable in #org-text). Private org/channels with restricted access require being an active Supporter.
+1 - Restricted Mode is when our guild does not let new users to join.
+
+2 - You can request the Moderation Team to create a public org/channel (joinable in #org-text). Private org/channels with restricted access require being an active Supporter.
+
+### Ring Promotion/Demotion Guide
+
+Use `/ring add` to promote users to a Ring status, and `/ring remove` to demote users from a Ring status. When moving users to different Rings, add the new Ring status, and then remove the old Ring status.
 
 ### Other Roles
 
-There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on #org-list, can be joined by Ring 4 (and above) members through #org-text reactions. Publically available roles are colored orange, private organization roles are colored yellow, and inactive organization roles are colored dark orange.
+There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on #org-list, can be joined by Ring 4 (and above) members through #org-list reactions. Publically available roles are colored orange, private organization roles are colored yellow, and inactive organization roles are colored dark orange.
 
 **Bot** and **3rd Party Bot** (and related) roles are reserved for bots only.
 
@@ -270,7 +245,7 @@ Upon the end of your Supporter period, the Active Supporter role will be replace
 
 ### Private Channel/Organization Guide
 
-This functionality requires Supporter, or at least Ring 2.
+This functionality requires Supporter, or at least Ring 3.
 
 To activate your private organization/channel, just simply send the following details to any Ring 1 member:
 
