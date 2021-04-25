@@ -60,7 +60,7 @@ These rules can also be viewed in #rules in our Discord guild.
 
 **Rule 3: Try to keep topic-specific conversations in topic-specific channels. Check #org-list to make sure a topic is not preferred to be in a set of channel(s).** For now, depending on the topic, dropping a few things in general that could be elsewhere is okay as long as it's not annoying to people who are not opt-in to see certain topics. We aren't a high traffic guild, so this rule isn't enforced heavily, but if you are asked to take a conversation to the appropriate channel(s), please do so.
 
-**To be a part of this community, you must be a Ring 3. See below for more.**
+**To be a part of this community, you must be Ring 3. See below for more.**
 
 **A brief explanation of the Ring System**:
 The Ring System recognizes active members and creates a safety moat for our guild. Usually, promotions come from active guild activity, while demotions (Ring Decay) come from extremely long inactivity.
@@ -145,13 +145,23 @@ Long time members have come to a general consensus as to what programs to use fo
 
 ## Voice Channel Info
 
-Our voice server is currently set to the us-west GCP region. This means that you can either be connected to a server in Oregon or California, USA.
+All voice channels use the latest Opus 1.3 codec with (presumably) CBR. While all usable voice channels have ample bitrate for music playback, only bots can play music using a stereo output without voice tuning. Everyone else is limited to mono output, with voice tuning (negatively impacts sound quality no matter the bitrate). Alternatively, you can use Spotify's Listen Along feature, which integrates into Discord and only requires a Spotify connection on your Discord account, but only music listening can be done when the feature is used.
 
-All voice channels use the latest Opus 1.3 codec with (preassumably) CBR. While all usable voice channels have ample bitrate for music playback, only bots can play music using a stereo output without voice tuning. Everyone else is limited to mono output, with voice tuning (negatively impacts sound quality no matter the bitrate). Alternatively, you can use Spotify's Listen Along feature, which integrates into Discord and only requires a Spotify connection on your Discord account, but only music listening can be done when the feature is used.
+In most channels, the voice channel's server region is set to Auto, meaning the server region selected is the lowest ping for the voice channel's first participant. Ring 1 users are able to set a specific voice server region for a voice channel using `/edit_vc_region`. Take a look at this [Discord support article](https://support.discord.com/hc/en-us/articles/360060570993-Voice-Regions-Update) for more information on this topic.
+
+The channel name format is as follows: Ch.#AA - NAME [R]
+
+- # -> Channel number
+
+- AA -> Suffixes (listed further below)
+
+- NAME -> Special name for this channel (optional, must not have square brackets)
+
+- R -> Voice server region surrounded by square brackets. Usually set to Auto.
 
 One of the core suffixes here will be appended appropriately to Main Voice channels:
 
-- L - 0 kbps. Lobby/AFK channel.
+- L - 0 kbps. Lobby/AFK channel. You are moved here after 1 hour of inactivity.
 
 - S - 96 kbps. This is our standard voice channel bitrate.
 
@@ -165,7 +175,7 @@ Optionally, one or more of these (additional) suffixes will be appended to Main 
 
 - E - Channel for special events.
 
-Suffixes may not be present in voice channels outside Main Voice.
+This channel name format may not be present in voice channels outside Main Voice.
 
 ## User Roles and Perks
 
@@ -213,7 +223,7 @@ Notes:
 
 ### Ring Promotion/Demotion Guide
 
-Use `/ring add` to promote users to a Ring status, and `/ring remove` to demote users from a Ring status. When moving users to different Rings, add the new Ring status, and then remove the old Ring status.
+Only for Ring 1-2 users. Use `/ring add` to promote users to a Ring status, and `/ring remove` to demote users from a Ring status. When moving users to different Rings, add the new Ring status, and then remove the old Ring status.
 
 ### Other Roles
 
