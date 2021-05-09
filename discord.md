@@ -34,6 +34,8 @@ To go to the ricebear homepage, click [here](/).
 - [ricebear Supporter](#ricebear-supporter)
 
   - [Private Channel/Organization Guide](#private-channelorganization-guide)
+
+  - [Custom Main Voice Channel Name Guide](#custom-main-voice-channel-name-guide)
 - [Guild Bots](#guild-bots)
 
 - [Special Credits](#special-credits)
@@ -102,11 +104,11 @@ ricebear-org.github.io
 🎤 Main Voice
 |
 |-----Ch.1L / AFK
+|-----Ch.1XX   <------ Join by getting Supporter or being moved by an active Supporter.
+|-----Ch.2XX   <------ Join by getting Supporter or being moved by an active Supporter.
+|-----Ch.3XX   <------ Join by getting Supporter or being moved by an active Supporter.
+|-----Ch.1X    <------ Join by getting Supporter or being moved by an active Supporter.
 |-----Ch.1S
-|-----Ch.2S
-|-----Ch.1X   <------ Join by getting Supporter or being moved by an active Supporter.
-|-----Ch.2X   <------ Join by getting Supporter or being moved by an active Supporter.
-|-----Ch.1XX  <------ Join by getting Supporter or being moved by an active Supporter.
 
 [If you join an org, channels will be located here.]
 
@@ -141,7 +143,7 @@ Long time members have come to a general consensus as to what programs to use fo
 
 ## Supported Discord Clients/Mods
 
-**Only official clients (Stable, PTB, Canary) without mods (this means no custom CSS injection) are supported.** Use unofficial clients/mods (Ripcord, BetterDiscord, BandagedBD, BeautifulDiscord, Powercord, cordless, Discline, discord-term, Glasscord, Lightcord, etc) [at your own risk](https://news.ycombinator.com/item?id=25214777).
+**Only official clients (Stable, PTB, Canary) without mods (this means no custom CSS injection) are tested and supported.** Use unofficial clients/mods (Ripcord, BetterDiscord, BandagedBD, BeautifulDiscord, Powercord, cordless, Discline, discord-term, Glasscord, Lightcord, etc) [at your own risk](https://news.ycombinator.com/item?id=25214777).
 
 ## Voice Channel Info
 
@@ -151,7 +153,7 @@ In most channels, the voice channel's server region is set to Auto, meaning the 
 
 The channel name format is as follows: Ch.#AA - NAME [R]
 
-- # -> Channel number
+- `#` -> Channel number
 
 - AA -> Suffixes (listed further below)
 
@@ -241,7 +243,7 @@ Supporter benefits and their availability may change at any time, for any reason
 
 **Tier 1 is currently not available. Tiers 2-3 are still available. Direct monetary contributions are highly encouraged.**
 
-Supporters are able to join X/XX channels on their own, create private channels/organizations, and get an exclusive role based on their tier.
+Supporters are able to join X/XX channels on their own, create private channels/organizations, add a custom name to any Main Voice channel, and get an exclusive role based on their tier.
 
 Here are the tiers, as well as their private channel limit:
 
@@ -273,6 +275,24 @@ Your private organization will be located either alphabetically with other organ
 
 Ring 1 members can bypass the private channel's/organization's allowlist for admin purposes.
 
+### Custom Main Voice Channel Name Guide
+
+As an active Supporter, you can submit a request to append a custom name to any Main Voice channel.
+
+- Requests must be submitted to `haradatakumi_yo#0765` via Discord DM. They can be submitted anytime.
+
+- Modifications to your custom name or chosen channel can be made at any time.
+
+- In the event that someone beats you to a channel, we'll try to figure out another channel that can be changed. This will not hurt your place in the queue.
+
+- Custom names are only limited to 10 characters within ASCII decimal codes 32-126. See [the ASCII table](http://www.asciitable.com/) for more.
+
+- Custom names must be SFW and abide by Discord's Community Guidelines (see #rules). Any names that may have NSFW implications may be rejected.
+
+- Names will be appended in the middle. It will not remove the #LL and [regi] parts of the name. They are there for transparency and debugging purposes.
+
+- Names will last for 2 weeks. After 2 weeks, you can either reuse your current name or change it.
+
 ## Guild Bots
 
 Currently, the ricebear@Discord gulid has the following bots: 
@@ -281,17 +301,21 @@ Currently, the ricebear@Discord gulid has the following bots:
 
 - Mudae. This is a 3rd-party bot not hosted by ricebear. Its main function is a gacha game, accessable by members with Mudae Access.
 
-- The following 3rd-party music bots: FredBoat, Hydra, Rythm, and Rythm 2.
+- The following 3rd-party music bots: Hydra, Rythm, and Rythm 2.
 
 Before requesting a separate bot to join the guild, try looking for an [equivalent cog on index.discord.red](https://index.discord.red).
 
 For a bot to be eligible to join, all of these following requirements must be met to be available on main-text channels:
 
+- They must not be a part of [Bot Labs, which is owned by Bluestacks](https://botlabs.gg/).
 - They must have a useful purpose.
 - They must be self hostable and open source.
 - They must be configurable to not store excessive private data and send anonymized telemetry to a non-ricebear owned server. Having no telemetry is a plus. Requested bots that require monitoring user activity when they have no business in doing so will not be accepted for any reason.
 
-For organization and voice channels, the only requirement is to be a useful bot.
+For organization and voice channels, all of these following requirements must be met:
+
+- They must not be a part of [Bot Labs, which is owned by Bluestacks](https://botlabs.gg/).
+- They must have a useful purpose.
 
 Once they are eligible to join, Ring 1 members will decide whether or not to add the requested bot in the future.
 
