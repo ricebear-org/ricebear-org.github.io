@@ -115,7 +115,7 @@ If you have an idea/request for an appropriate public organization/channel, send
 
 ### User Roles and Perks
 
-Refer to this link [here](#user-groups-rings-and-perks-1) for more details about User Roles and their perks.
+Refer to this link [here](#user-roles-and-perks-1) for more details about User Roles and their perks.
 
 ### Recommended Applications/Apps to Install
 
