@@ -19,7 +19,7 @@ To go to the ricebear homepage, click [here](/).
   - [Recommended Applications/Apps to Install](#recommended-applicationsapps-to-install)
 - [Supported Discord Clients/Mods](#supported-discord-clientsmods)
 
-- [Voice Channel Info](#voice-channel-info)
+- [Voice Channels](#voice-channels)
 
 - [User Roles and Perks](#user-roles-and-perks-1)
 
@@ -30,19 +30,13 @@ To go to the ricebear homepage, click [here](/).
   - [Other Roles](#other-roles)
 
   - [Ring Promotion/Demotion Guide](#ring-promotiondemotion-guide)
-
-- [ricebear Supporter](#ricebear-supporter)
-
-  - [Private Channel/Organization Guide](#private-channelorganization-guide)
-
-  - [Custom Main Voice Channel Name Guide](#custom-main-voice-channel-name-guide)
 - [Guild Bots](#guild-bots)
 
 - [Special Credits](#special-credits)
 
 ## Getting Started
 
-Presently, new users are only invited by a current Member (Ring 2 or above) of our guild. In the future, there will be an opportunity to apply to join through Membership Screening (coming 2021).
+Presently, new users are only invited by a current Member (Ring 2 or above) of our guild. In the future, there will be an opportunity to apply to join through Membership Screening (Discord native feature coming 2021?).
 
 Read the rest of this section so that you are familiar with how our guild works.
 
@@ -103,12 +97,8 @@ ricebear-org.github.io
 
 🎤 Main Voice
 |
-|-----Ch.1L / AFK
-|-----Ch.1XX   <------ Join by getting Supporter or being moved by an active Supporter.
-|-----Ch.2XX   <------ Join by getting Supporter or being moved by an active Supporter.
-|-----Ch.3XX   <------ Join by getting Supporter or being moved by an active Supporter.
-|-----Ch.1X    <------ Join by getting Supporter or being moved by an active Supporter.
-|-----Ch.1S
+|-----Lobby
+|-----(Some channels here...)
 
 [If you join an org, channels will be located here.]
 
@@ -117,13 +107,11 @@ ricebear-org.github.io
 |-----#pr
 ```
 
-If you aren't an active Supporter yet, you can't join the [X/XX channels](#any-channel-with-x-suffix) without being moved in by [an active Supporter](#ricebear-supporter).
-
 ### Join Organizations to Access More Channels
 
 Once you are Ring 3, you can gain access to more channels through joining organizations (see next section) and Ring System promotions. In #org-list, you can click the appropriate emoji reaction on the message to join/leave a public organization. Joining a private organization requires permission from the listed organization manager.
 
-If you have an idea/request for an appropriate public organization/channel, send it to a Ring 1 member. To restrict membership, you must be an active Supporter. See the [ricebear Supporter](#ricebear-supporter) section for more.
+If you have an idea/request for an appropriate public organization/channel, send it to a Ring 1 member.
 
 ### User Roles and Perks
 
@@ -145,37 +133,17 @@ Long time members have come to a general consensus as to what programs to use fo
 
 **Only official clients (Stable, PTB, Canary) without mods (this means no custom CSS injection) are tested and supported.** Use unofficial clients/mods (Ripcord, BetterDiscord, BandagedBD, BeautifulDiscord, Powercord, cordless, Discline, discord-term, Glasscord, Lightcord, etc) [at your own risk](https://news.ycombinator.com/item?id=25214777).
 
-## Voice Channel Info
+## Voice Channels
 
-All voice channels use the latest Opus 1.3 codec with (presumably) CBR. While all usable voice channels have ample bitrate for music playback, only bots can play music using a stereo output without voice tuning. Everyone else is limited to mono output, with voice tuning (negatively impacts sound quality no matter the bitrate). Alternatively, you can use Spotify's Listen Along feature, which integrates into Discord and only requires a Spotify connection on your Discord account, but only music listening can be done when the feature is used.
+All voice channels use the latest Opus 1.3 codec with (presumably) CBR, usually at the highest bitrate possible. While all usable voice channels have ample bitrate for music playback, only bots can play music using a stereo output without voice tuning. Everyone else is limited to mono output, with voice tuning (negatively impacts sound quality no matter the bitrate). Alternatively, you can use Spotify's Listen Along feature, which integrates into Discord and only requires a Spotify connection on your Discord account, but only music listening can be done when the feature is used.
 
 In most channels, the voice channel's server region is set to Auto, meaning the server region selected is the lowest ping for the voice channel's first participant. Ring 1 users are able to set a specific voice server region for a voice channel using `/edit_vc_region`. Take a look at this [Discord support article](https://support.discord.com/hc/en-us/articles/360060570993-Voice-Regions-Update) for more information on this topic.
 
-The channel name format is as follows: Ch.#AA - NAME [R]
+The channel name format is as follows: NAME [R]
 
-- `#` -> Channel number
-
-- AA -> Suffixes (listed further below)
-
-- NAME -> Special name for this channel (optional, must not have square brackets)
+- NAME -> Either a channel number and/or a special name for this channel.
 
 - R -> Voice server region surrounded by square brackets. Usually set to Auto.
-
-One of the core suffixes here will be appended appropriately to Main Voice channels:
-
-- L - 0 kbps. Lobby/AFK channel. You are moved here after 1 hour of inactivity.
-
-- S - 96 kbps. This is our standard voice channel bitrate.
-
-- X - 128 kbps. Requires Supporter or Ring 1 to join yourself, but you can be moved in by a Supporter or Ring 1 member.
-
-- XX - 256 kbps. Requires Supporter or Ring 1 to join yourself, but you can be moved in by a Supporter or Ring 1 member. **Sensitive to weaker connections.**
-
-Optionally, one or more of these (additional) suffixes will be appended to Main Voice channels:
-
-- P - Private channel. Users must be in the channel's allowlist (have permissions) to join.
-
-- E - Channel for special events.
 
 This channel name format may not be present in voice channels outside Main Voice.
 
@@ -205,11 +173,10 @@ In this table, ✔ and ❌ are generally used to show perks User Roles have and 
 | Main Text and Voice Access                  | ✔                         | ✔               | ✔                 |
 | Use Camera, Go Live in Voice Channels       | ✔                         | ✔               | ✔                 |
 | Joining Organizations                       | ✔                         | ✔               | ✔                 |
-| Access During Restricted Mode(1)            | ✔                         | ✔               | ✔                 |
 | Move/Disconnect Users in Voice Channels     | ✔                         | ✔               | ✔                 |
 | Use @everyone, @here, @[role]               | ✔                         | ✔               | ✔                 |
 | View Audit Log                              | ✔                         | ✔               | ✔                 |
-| Requesting Channels(2)                      | ✔                         | ✔               | ✔                 |
+| Requesting Channels(1)                      | ✔                         | ✔               | ✔                 |
 | Change Nickname                             | ❌                         | ✔               | ✔                 |
 | Manage Messages                             | ❌                         | ✔               | ✔                 |
 | Create Invite Links                         | ❌                         | ✔               | ✔                 |
@@ -219,9 +186,7 @@ In this table, ✔ and ❌ are generally used to show perks User Roles have and 
 
 Notes:
 
-1 - Restricted Mode is when our guild does not let new users to join.
-
-2 - You can request the Moderation Team to create a public org/channel (joinable in #org-text). Private org/channels with restricted access require being an active Supporter.
+1 - You can send a request to Ring 1 to create a custom org/channel.
 
 ### Ring Promotion/Demotion Guide
 
@@ -229,69 +194,11 @@ Only for Ring 1-2 users. Use `/ring add` to promote users to a Ring status, and 
 
 ### Other Roles
 
-There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on #org-list, can be joined by Ring 4 (and above) members through #org-list reactions. Publically available roles are colored orange, private organization roles are colored yellow, and inactive organization roles are colored dark orange.
+There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on #org-list, can be joined by Ring 3 (and above) members through #org-list reactions. Publically available roles are colored orange, private organization roles are colored yellow, and inactive organization roles are colored dark orange.
 
 **Bot** and **3rd Party Bot** (and related) roles are reserved for bots only.
 
 Roles and their functions can change at any time. Any major changes will be announced to the guild.
-
-## ricebear Supporter
-
-The ricebear Server (not the same as the Discord guild), used to host our own bots, costs money to run. We host our own instances of bots whenever possible to keep our Discord guild stable and safe. We also want to improve our server's functionality through Discord Boosting. To keep the server online and with enhanced functionality, we rely on monetary donations. Giving a donation to ricebear helps the ricebear Server and our guild continue to thrive and live into the near future, and also grants you special (time-limited) perks within the guild. Contact Ring 1 members in the guild for details on how to contribute. We appreciate your support!
-
-Supporter benefits and their availability may change at any time, for any reason.
-
-**Tier 1 is currently not available. Tiers 2-3 are still available. Direct monetary contributions are highly encouraged.**
-
-Supporters are able to join X/XX channels on their own, create private channels/organizations, add a custom name to any Main Voice channel, and get an exclusive role based on their tier.
-
-Here are the tiers, as well as their private channel limit:
-
-- Tier 1: 2.50-4.99 USD/mo; 1 private channel.
-
-- Tier 2: 5.00-9.99 USD/mo or 1 Server Boost per month; 3 private channels.
-
-- Tier 2: 10.00+ USD/mo or 2 Server Boosts per month; 5 private channels.
-
-Upon the end of your Supporter period, the Active Supporter role will be replaced by the Past Supporter on your account. Private text channels will be available through a read-only medium. **All other perks are removed.**
-
-### Private Channel/Organization Guide
-
-This functionality requires Supporter, or at least Ring 3.
-
-To activate your private organization/channel, just simply send the following details to any Ring 1 member:
-
-1. Channel name(s) and purpose(s)
-
-2. Block everyone from being moved out of your private voice channel (evaluated on a case by case basis and may not be provided)
-
-3. Voice channel bitrates
-
-4. [Tier 2-3 Only] Organization name and purpose
-
-You can configure users who are in your private organization (thus changing access to the private organization's channels) with the `/role` commands. After typing a slash, Discord will show subcommands that you can use (add/remove members, etc). To change any of the other details you've provided, contact a Ring 1 member.
-
-Your private organization will be located either alphabetically with other organizations or within the proper category along with other private channels.
-
-Ring 1 members can bypass the private channel's/organization's allowlist for admin purposes.
-
-### Custom Main Voice Channel Name Guide
-
-As an active Supporter, you can submit a request to append a custom name to any Main Voice channel.
-
-- Requests must be submitted to `haradatakumi_yo#0765` via Discord DM. They can be submitted anytime.
-
-- Modifications to your custom name or chosen channel can be made at any time.
-
-- In the event that someone beats you to a channel, we'll try to figure out another channel that can be changed. This will not hurt your place in the queue.
-
-- Custom names are only limited to 10 characters within ASCII decimal codes 32-126. See [the ASCII table](http://www.asciitable.com/) for more.
-
-- Custom names must be SFW and abide by Discord's Community Guidelines (see #rules). Any names that may have NSFW implications may be rejected.
-
-- Names will be appended in the middle. It will not remove the #LL and [regi] parts of the name. They are there for transparency and debugging purposes.
-
-- Names will last for 2 weeks. After 2 weeks, you can either reuse your current name or change it.
 
 ## Guild Bots
 
@@ -319,6 +226,6 @@ For organization and voice channels, all of these following requirements must be
 
 Once they are eligible to join, Ring 1 members will decide whether or not to add the requested bot in the future.
 
-## Special Credits
+## Special Credits
 
 Our Discord guild icon is made of two icons, [a bear image from HeadsOfBirds, GB, in The Noun Project's Animals Collection](https://thenounproject.com/term/polar-bear/1446504/), and [a rice bowl image from sumhi_icon, in The Noun Project's food Collection](https://thenounproject.com/term/rice/1322364/).
