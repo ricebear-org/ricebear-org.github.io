@@ -75,11 +75,11 @@ If you joined after Oct 2020 and fail to get Ring 3 after a while, then a Ring 1
 
 ### Server Layout and Channel Visibility
 
-There's a handful of channels on our server, with more to come. The server tries to reduce as much channel visibility as you can, so that the channels that you only care about come into view.
+There's a handful of channels on our server, with more to come. The server tries to reduce as much channel visibility as you can, so that the channels that you only care about come into view. You can join more channels by joining organizations listed in `#org-list` (some orgs are invite only). Feel free to send new channel suggestions to Ring 1 members.
 
 Anyone who is new and joins the server can only see `#rules` and `#pr`.
 
-Once you get Ring 3, you can see the channels listed as follows:
+By default, a Ring 3 can see the channels listed below:
 
 ```markdown
 ricebear-org.github.io
@@ -107,45 +107,25 @@ ricebear-org.github.io
 |-----#pr
 ```
 
-### Join Organizations to Access More Channels
-
-Once you are Ring 3, you can gain access to more channels through joining organizations (see next section) and Ring System promotions. In #org-list, you can click the appropriate emoji reaction on the message to join/leave a public organization. Joining a private organization requires permission from the listed organization manager.
-
-If you have an idea/request for an appropriate public organization/channel, send it to a Ring 1 member.
-
 ### User Roles and Perks
 
 Refer to this link [here](#user-roles-and-perks-1) for more details about User Roles and their perks.
 
-### Recommended Applications/Apps to Install
-
-Long time members have come to a general consensus as to what programs to use for certain inter-user tasks. As a new user, it's highly recommended to install these applications/apps for the best experience.
-
-| Name       | Use                                                                                                              | Website URL                                                                                          |
-| ---------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| AnyDesk    | Remote PC tool. Best in class for non-gaming remote PC purposes and host PCs with great CPU power.               | [https://anydesk.com](https://anydesk.com)                                                           |
-| Parsec     | Remote PC tool. Best in class for gaming remote PC purposes and host PCs with a modern GPU.                      | [https://parsecgaming.com](https://parsecgaming.com)                                                 |
-| mpv        | Fastest and leanest media player.                                                                                | [https://mpv.io](https://mpv.io)                                                                     |
-| Syncplay   | Watch local and streaming videos together.                                                                       | [https://syncplay.pl](https://syncplay.pl)                                                           |
-| youtube-dl | Makes internet videos work with Syncplay and mpv.                                                                | [https://ytdl-org.github.io/youtube-dl/index.html](https://ytdl-org.github.io/youtube-dl/index.html) |
-
 ## Supported Discord Clients/Mods
 
-**Only official clients (Stable, PTB, Canary) without mods (this means no custom CSS injection) are tested and supported.** Use unofficial clients/mods (Ripcord, BetterDiscord, BandagedBD, BeautifulDiscord, Powercord, cordless, Discline, discord-term, Glasscord, Lightcord, etc) [at your own risk](https://news.ycombinator.com/item?id=25214777).
+**Only official clients (Stable, PTB, Canary) without mods (this means no custom CSS injection, self enrolling yourself in experiments you shouldn't use) are tested and supported.** Use unofficial clients/mods (Ripcord, BetterDiscord, BandagedBD, BeautifulDiscord, Powercord, cordless, Discline, discord-term, Glasscord, Lightcord, etc) [at your own risk](https://news.ycombinator.com/item?id=25214777).
 
 ## Voice Channels
 
-All voice channels use the latest Opus 1.3 codec with (presumably) CBR, usually at the highest bitrate possible. While all usable voice channels have ample bitrate for music playback, only bots can play music using a stereo output without voice tuning. Everyone else is limited to mono output, with voice tuning (negatively impacts sound quality no matter the bitrate). Alternatively, you can use Spotify's Listen Along feature, which integrates into Discord and only requires a Spotify connection on your Discord account, but only music listening can be done when the feature is used.
+All voice channels use the latest Opus 1.3 codec with (presumably) CBR, usually at the highest bitrate possible. Even with high bitrates, only bots can play music using a stereo output without voice tuning. Everyone else is limited to mono output with voice tuning (both negatively impacts sound quality). Alternatively, you can use Spotify's Listen Along feature, which integrates into Discord and requires a Spotify connection on your Discord account.
 
-In most channels, the voice channel's server region is set to Auto, meaning the server region selected is the lowest ping for the voice channel's first participant. Ring 1 users are able to set a specific voice server region for a voice channel using `/edit_vc_region`. Take a look at this [Discord support article](https://support.discord.com/hc/en-us/articles/360060570993-Voice-Regions-Update) for more information on this topic.
+In most channels, the voice channel's server region is set to Auto. Ring 1 users are able to set a specific voice server region for a voice channel using `/edit_vc_region`. See this [Discord support article](https://support.discord.com/hc/en-us/articles/360060570993-Voice-Regions-Update) for more information about the Auto region.
 
-The channel name format is as follows: NAME [R]
+Usually, the channel name format is as follows: NAME [R]
 
 - NAME -> Either a channel number and/or a special name for this channel.
 
 - R -> Voice server region surrounded by square brackets. Usually set to Auto.
-
-This channel name format may not be present in voice channels outside Main Voice.
 
 ## User Roles and Perks
 
@@ -165,7 +145,7 @@ The Ring System recognizes active members and creates a safety moat for our guil
 
 ### Perk Comparison Table
 
-In this table, ✔ and ❌ are generally used to show perks User Roles have and don't have. Any of these perks may be revoked or changed at any time, either in the User Group level (table will be updated in this case) or on a single user basis. This is not a comprehensive list of every single permission enabled/disabled on Discord; just the key permissions. Perks may change within Organization channels; these changes aren't listed here.
+In this table, ✔ and ❌ are generally used to show perks User Roles have and don't have. Any of these perks may change at any time, either in the User Group level (table will be updated in this case) or on a single user basis. This is not a comprehensive list of every single permission enabled/disabled on Discord; just the key permissions. Perks may change within Organization channels; these changes aren't listed here.
 
 | Privilege                                   | Ring 3 (Prospective Member) | Ring 2 (Member)  | Ring 1 (Mod Team)   |
 | ------------------------------------------- | --------------------------- | ---------------- | ------------------- |
@@ -194,7 +174,7 @@ Only for Ring 1-2 users. Use `/ring add` to promote users to a Ring status, and 
 
 ### Other Roles
 
-There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on `#org-list`, can be joined by Ring 3 (and above) members through #org-list reactions. Publically available roles are colored orange, private organization roles are colored yellow, and inactive organization roles are colored dark orange.
+There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on `#org-list`, can be joined by Ring 3 (and above) members through `#org-list` reactions. Publically available roles are colored orange, private organization roles are colored yellow, and inactive organization roles are colored dark orange.
 
 **Bot** and **3rd Party Bot** (and related) roles are reserved for bots only.
 
@@ -205,6 +185,8 @@ Roles and their functions can change at any time. Any major changes will be anno
 Currently, the ricebear@Discord gulid has the following bots: 
 
 - AquaBot (formerly known as Red-v3-ricebear). This bot has multiple functions; type `.help` or `/` to see its commands.
+
+- RaufBot, which posts Discord-Datamining updates to `#discord-news`.
 
 - Mudae. This is a 3rd-party bot not hosted by ricebear. Its main function is a gacha game, accessable by members with Mudae Access.
 
