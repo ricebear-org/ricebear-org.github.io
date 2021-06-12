@@ -2,7 +2,7 @@
 
 To go to the ricebear homepage, click [here](/).
 
-**Join the ricebear Discord:** must be invited by a member who is Ring 2 or above, or be accepted through Membership Screening (coming 2021). Whenever this process is open, this page and #pr will be updated with details on how to begin.
+**Join the ricebear Discord:** must be invited by a member who is Ring 2 or above, or be accepted through Membership Screening (Discord native feature coming 2021?). Whenever this process is open, this page and #pr will be updated with details on how to begin.
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ Read the rest of this section so that you are familiar with how our guild works.
 
 ### Guild Rules
 
-These rules can also be viewed in #rules in our Discord guild.
+These rules can also be viewed in `#rules` in our Discord guild.
 
 **Prelude: If you need to appeal any moderation punishments (demotions/kicks/bans), please reach out to any member from the Moderation Team.**
 
@@ -54,7 +54,7 @@ These rules can also be viewed in #rules in our Discord guild.
 
 **Rule 2: Stay good towards each other.** In other words, don't create toxicity or trouble, and don't treat others the way you don't want to be treated. Keep in mind that banter towards someone else is okay as long as they are cool with it. It's worth noting that some users (including you) may have different perspectives and mannerisms, but it's best not to follow through them if they cause issues.
 
-**Rule 3: Try to keep topic-specific conversations in topic-specific channels. Check #org-list to make sure a topic is not preferred to be in a set of channel(s).** For now, depending on the topic, dropping a few things in general that could be elsewhere is okay as long as it's not annoying to people who are not opt-in to see certain topics. We aren't a high traffic guild, so this rule isn't enforced heavily, but if you are asked to take a conversation to the appropriate channel(s), please do so.
+**Rule 3: Try to keep topic-specific conversations in topic-specific channels. Check `#org-list` to make sure a topic is not preferred to be in a set of channel(s).** For now, depending on the topic, dropping a few things in general that could be elsewhere is okay as long as it's not annoying to people who are not opt-in to see certain topics. We aren't a high traffic guild, so this rule isn't enforced heavily, but if you are asked to take a conversation to the appropriate channel(s), please do so.
 
 **To be a part of this community, you must be Ring 3. See below for more.**
 
@@ -69,15 +69,15 @@ Hierarchy:
 
 - Ring 3 - New Member (must have this to gain access to usable channels)
 
-You can get Ring 3 by being invited by an existing member, or be accepted through an application process coming soon (tm). Updates on this process will be posted in #pr.
+You can get Ring 3 by being invited by an existing member, or be accepted through an application process coming soon (tm). Updates on this process will be posted in `#pr`.
 
-If you joined after Oct 2020 and fail to get Ring 3 after a while, then a @Ring 1 will reach out to you and make sure you're in the right place.
+If you joined after Oct 2020 and fail to get Ring 3 after a while, then a Ring 1 will reach out to you and make sure you're in the right place.
 
 ### Server Layout and Channel Visibility
 
 There's a handful of channels on our server, with more to come. The server tries to reduce as much channel visibility as you can, so that the channels that you only care about come into view.
 
-Anyone who is new and joins the server can only see #rules and #pr.
+Anyone who is new and joins the server can only see `#rules` and `#pr`.
 
 Once you get Ring 3, you can see the channels listed as follows:
 
@@ -88,7 +88,7 @@ ricebear-org.github.io
 |
 |-----#rules
 |-----#announcements
-|-----#org-list <----------- Read here to see how to join a channel that has a restricted topic you want to talk about.
+|-----#org-list <----------- See how to join other unique channels here!
 
 💬 main-text
 |
@@ -194,7 +194,7 @@ Only for Ring 1-2 users. Use `/ring add` to promote users to a Ring status, and 
 
 ### Other Roles
 
-There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on #org-list, can be joined by Ring 3 (and above) members through #org-list reactions. Publically available roles are colored orange, private organization roles are colored yellow, and inactive organization roles are colored dark orange.
+There are also **self and organization** roles. Organizations with their own role can have dedicated text/voice channels that only their members can join. These roles, listed on `#org-list`, can be joined by Ring 3 (and above) members through #org-list reactions. Publically available roles are colored orange, private organization roles are colored yellow, and inactive organization roles are colored dark orange.
 
 **Bot** and **3rd Party Bot** (and related) roles are reserved for bots only.
 
