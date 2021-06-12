@@ -15,8 +15,6 @@ To go to the ricebear homepage, click [here](/).
   - [Join Organizations to Access More Channels](#join-organizations-to-access-more-channels)
 
   - [User Roles and Perks](#user-roles-and-perks)
-
-  - [Recommended Applications/Apps to Install](#recommended-applicationsapps-to-install)
 - [Supported Discord Clients/Mods](#supported-discord-clientsmods)
 
 - [Voice Channels](#voice-channels)
