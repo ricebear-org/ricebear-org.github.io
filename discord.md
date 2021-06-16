@@ -35,15 +35,15 @@ These rules can also be viewed in `#rules` in our Discord guild.
 
 **Prelude: If you need to appeal any moderation punishments (demotions/kicks/bans), please reach out to any member from the Moderation Team.**
 
-**Please report any rule violations and reach out for help to the moderation team (members above). Because rule violations differ in severity, there is no consistent procedure to determine the severity and nature of actions decided by the moderation team. Please appeal if any moderation actions are unjustified.**
+**Please report any rule violations and reach out for help to the moderation team (members above). Because rule violations differ in severity, there is no consistent way to determine the severity and nature of actions decided by the moderation team. Please appeal if any moderation actions are unjustified.**
 
 **Rule 1: Activity in this guild should follow Discord's Community Guidelines (https://discord.com/guidelines).**
 
-**Rule 1.1: No promoting offensively racist/"alt-right"/threatening content in a good light.**
+**Rule 1.1: Don't show racist/threatening content in a good light.**
 
-**Rule 2: Stay good towards each other. Banter is okay as long as participants are cool with it. While some users (maybe including you) may have different perspectives and mannerisms, stand down if needed.**
+**Rule 2: Stay good towards each other. Banter is okay as long as everyone are cool with it. While some users (maybe you too) may have different perspectives and mannerisms, stand down if needed.**
 
-**Rule 3: If a topic has its channel in `#org-list`, you should probably use it if you can (join if you haven't already too). It's likely there for a reason.**
+**Rule 3: If a topic has its channel in `#org-list`, you should probably use it if you can. It's likely there for a reason.**
 
 **To be a part of this community, you must be Ring 3. See [Ring System](#ring-system) for more.**
 
