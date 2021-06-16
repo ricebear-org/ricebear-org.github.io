@@ -2,19 +2,16 @@
 
 To go to the ricebear homepage, click [here](/).
 
-**Join the ricebear Discord:** must be invited by a member who is Ring 2 or above, or be accepted through Membership Screening (Discord native feature coming 2021?). Whenever this process is open, this page and #pr will be updated with details on how to begin.
+**Join the ricebear Discord:** must be invited by a member who is Ring 2 or above, or be accepted through Membership Screening (Discord native feature coming 2021?). Whenever this process is open, this page and `#pr` will be updated with details on how to begin.
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
+- [Guild Rules](#guild-rules)
 
-  - [Guild Rules](#guild-rules)
+- [Guild Layout and Channel Visibility](#guild-layout-and-channel-visibility)
 
-  - [Server Layout and Channel Visibility](#server-layout-and-channel-visibility)
+- [Join Organizations to Access More Channels](#join-organizations-to-access-more-channels)
 
-  - [Join Organizations to Access More Channels](#join-organizations-to-access-more-channels)
-
-  - [User Roles and Perks](#user-roles-and-perks)
 - [Supported Discord Clients/Mods](#supported-discord-clientsmods)
 
 - [Voice Channels](#voice-channels)
@@ -32,13 +29,7 @@ To go to the ricebear homepage, click [here](/).
 
 - [Special Credits](#special-credits)
 
-## Getting Started
-
-Presently, new users are only invited by a current Member (Ring 2 or above) of our guild. In the future, there will be an opportunity to apply to join through Membership Screening (Discord native feature coming 2021?).
-
-Read the rest of this section so that you are familiar with how our guild works.
-
-### Guild Rules
+## Guild Rules
 
 These rules can also be viewed in `#rules` in our Discord guild.
 
@@ -46,36 +37,21 @@ These rules can also be viewed in `#rules` in our Discord guild.
 
 **Please report any rule violations and reach out for help to the moderation team (members above). Because rule violations differ in severity, there is no consistent procedure to determine the severity and nature of actions decided by the moderation team. Please appeal if any moderation actions are unjustified.**
 
-**Rule 1: Follow Discord's Community Guidelines (https://discordapp.com/guidelines).** Keep in mind that some guidelines have heavier weight than others (see Rule 1.5 for more).
+**Rule 1: Activity in this guild should follow Discord's Community Guidelines (https://discord.com/guidelines).**
 
-**Rule 1.5: Do not do anything (like promoting offensively racist/"alt-right"/threatening content in a good light) that can get our guild and its members in trouble with Discord Trust and Safety.** Discord Trust and Safety are notorious among its well-informed users for mass banning users from the entire service who are residing in guild(s) who fail to enforce parts of the Community Guidelines, even when said users are not active in that/these guild(s). They especially pay attention to racist and "alt-right" content. This means that this content is especially not welcome here. Violations for this rule are taken much more seriously than any other rule listed here.
+**Rule 1.1: No promoting offensively racist/"alt-right"/threatening content in a good light.**
 
-**Rule 2: Stay good towards each other.** In other words, don't create toxicity or trouble, and don't treat others the way you don't want to be treated. Keep in mind that banter towards someone else is okay as long as they are cool with it. It's worth noting that some users (including you) may have different perspectives and mannerisms, but it's best not to follow through them if they cause issues.
+**Rule 2: Stay good towards each other. Banter is okay as long as participants are cool with it. While some users (maybe including you) may have different perspectives and mannerisms, stand down if needed.**
 
-**Rule 3: Try to keep topic-specific conversations in topic-specific channels. Check `#org-list` to make sure a topic is not preferred to be in a set of channel(s).** For now, depending on the topic, dropping a few things in general that could be elsewhere is okay as long as it's not annoying to people who are not opt-in to see certain topics. We aren't a high traffic guild, so this rule isn't enforced heavily, but if you are asked to take a conversation to the appropriate channel(s), please do so.
+**Rule 3: If a topic has its channel in `#org-list`, you should probably use it if you can (join if you haven't already too). It's likely there for a reason.**
 
-**To be a part of this community, you must be Ring 3. See below for more.**
+**To be a part of this community, you must be Ring 3. See [Ring System](#ring-system) for more.**
 
-**A brief explanation of the Ring System**:
-The Ring System recognizes active members and creates a safety moat for our guild. Usually, promotions come from active guild activity, while demotions (Ring Decay) come from extremely long inactivity.
+## Guild Layout and Channel Visibility
 
-Hierarchy:
+There's a handful of channels in our guild, with more to come. The guild tries to reduce as much channel visibility as you can, so that the channels that you only care about come into view. You can join more channels by joining organizations listed in `#org-list` (some orgs are invite only). Feel free to send new channel suggestions to Ring 1 members.
 
-- Ring 1 - Moderation Team (self explanatory)
-
-- Ring 2 - Member (typically consecutive 4 months of frequent activity, at a minimum)
-
-- Ring 3 - New Member (must have this to gain access to usable channels)
-
-You can get Ring 3 by being invited by an existing member, or be accepted through an application process coming soon (tm). Updates on this process will be posted in `#pr`.
-
-If you joined after Oct 2020 and fail to get Ring 3 after a while, then a Ring 1 will reach out to you and make sure you're in the right place.
-
-### Server Layout and Channel Visibility
-
-There's a handful of channels on our server, with more to come. The server tries to reduce as much channel visibility as you can, so that the channels that you only care about come into view. You can join more channels by joining organizations listed in `#org-list` (some orgs are invite only). Feel free to send new channel suggestions to Ring 1 members.
-
-Anyone who is new and joins the server can only see `#rules` and `#pr`.
+Anyone who is new and joins the guild can only see `#rules` and `#pr`.
 
 By default, a Ring 3 can see the channels listed below:
 
@@ -105,13 +81,9 @@ ricebear-org.github.io
 |-----#pr
 ```
 
-### User Roles and Perks
-
-Refer to this link [here](#user-roles-and-perks-1) for more details about User Roles and their perks.
-
 ## Supported Discord Clients/Mods
 
-**Only official clients (Stable, PTB, Canary) without mods (this means no custom CSS injection, self enrolling yourself in experiments you shouldn't use) are tested and supported.** Use unofficial clients/mods (Ripcord, BetterDiscord, BandagedBD, BeautifulDiscord, Powercord, cordless, Discline, discord-term, Glasscord, Lightcord, etc) [at your own risk](https://news.ycombinator.com/item?id=25214777).
+**Only official clients (Stable, PTB, Canary) without mods (this means no custom CSS injection, self enrolling yourself in experiments you shouldn't use) are tested and supported.** Use unofficial clients/mods [at your own risk](https://news.ycombinator.com/item?id=25214777).
 
 ## Voice Channels
 
@@ -129,17 +101,21 @@ Usually, the channel name format is as follows: NAME [R]
 
 ### Ring System
 
-In ricebear, each user has a certain Ring (status) level, which ranges from 5 (lowest status) to 1 (highest status). The lower Ring a user is, the higher rank the user is. To advance in the hierarchy, just be active in the community without causing a lot of trouble and promotions will follow. In cases of community mergers where ricebear continues to maintain this system, users from their prior community may obtain equivalent Ring status from their prior community status, if applicable.
+In ricebear, each user has a certain Ring (status) level, which ranges from 5 (lowest status) to 1 (highest status). To advance in the hierarchy, just be postively active in the community. If applicable, users from communities that merged with ricebear may obtain equivalent Ring status from their prior community status.
 
-The Ring System recognizes active members and creates a safety moat for our guild. Usually, promotions come from active guild activity, while demotions (Ring Decay) come from extremely long inactivity.
+The Ring System recognizes active members and creates a safety moat for our guild. *Usually*, promotions come from active guild activity, while demotions (Ring Decay) come from extremely long inactivity.
 
 **Ring System hierarchy**:
 
-- Ring 1 - Moderation Team (self explanatory)
+- Ring 1 - Moderation Team
 
-- Ring 2 - Member (typically consecutive 4 months of frequent activity, at a minimum)
+- Ring 2 - Member (*typically* consecutive 4 months of frequent activity, at a minimum)
 
 - Ring 3 - New Member (must have this to gain access to usable channels)
+
+You can get Ring 3 by being invited by an existing member, or be accepted through an application process coming soon (tm). Updates on this process will be posted in `#pr`.
+
+If you joined after Oct 2020 and fail to get Ring 3 after a while, then a Ring 1 will reach out to you and make sure you're in the right place.
 
 ### Perk Comparison Table
 
