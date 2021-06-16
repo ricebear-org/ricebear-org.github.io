@@ -20,11 +20,11 @@ To go to the ricebear homepage, click [here](/).
 
   - [Ring System](#ring-system)
 
+  - [Ring Promotion/Demotion Guide](#ring-promotiondemotion-guide)
+
   - [Perk Comparison Table](#perk-comparison-table)
 
   - [Other Roles](#other-roles)
-
-  - [Ring Promotion/Demotion Guide](#ring-promotiondemotion-guide)
 - [Guild Bots](#guild-bots)
 
 - [Special Credits](#special-credits)
@@ -117,6 +117,10 @@ You can get Ring 3 by being invited by an existing member, or be accepted throug
 
 If you joined after Oct 2020 and fail to get Ring 3 after a while, then a Ring 1 will reach out to you and make sure you're in the right place.
 
+### Ring Promotion/Demotion Guide
+
+Only for Ring 1-2 users. Use `/ring add` to promote users to a Ring status, and `/ring remove` to demote users from a Ring status. When moving users to different Rings, add the new Ring status, and then remove the old Ring status.
+
 ### Perk Comparison Table
 
 In this table, ✔ and ❌ are generally used to show perks User Roles have and don't have. Any of these perks may change at any time, either in the User Group level (table will be updated in this case) or on a single user basis. This is not a comprehensive list of every single permission enabled/disabled on Discord; just the key permissions. Perks may change within Organization channels; these changes aren't listed here.
@@ -141,10 +145,6 @@ In this table, ✔ and ❌ are generally used to show perks User Roles have and 
 Notes:
 
 1 - You can send a request to Ring 1 to create a custom org/channel.
-
-### Ring Promotion/Demotion Guide
-
-Only for Ring 1-2 users. Use `/ring add` to promote users to a Ring status, and `/ring remove` to demote users from a Ring status. When moving users to different Rings, add the new Ring status, and then remove the old Ring status.
 
 ### Other Roles
 
