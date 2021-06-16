@@ -41,7 +41,7 @@ These rules can also be viewed in `#rules` in our Discord guild.
 
 **Rule 1.1: Don't show racist/threatening content in a good light.**
 
-**Rule 2: Stay good towards each other. Banter is okay as long as everyone are cool with it. While some users (maybe you too) may have different perspectives and mannerisms, stand down if needed.**
+**Rule 2: Stay good towards each other. Banter is okay as long as everyone are cool with it. While some users (maybe you too) may have different perspectives and mannerisms, so stand down if needed.**
 
 **Rule 3: If a topic has its channel in `#org-list`, you should probably use it if you can. It's likely there for a reason.**
 
