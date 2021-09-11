@@ -43,7 +43,7 @@ These rules can also be viewed in `#rules` in our Discord guild.
 
 **Rule 2: Stay good towards each other. Banter is okay as long as everyone are cool with it. While some users (maybe you too) may have different perspectives and mannerisms, so stand down if needed.**
 
-**Rule 3: If a topic has its channel in `#org-list`, you should probably use it if you can. It's likely there for a reason.**
+**Rule 3: If a topic has its channel in `#org-list`, you should probably use it if you can.**
 
 **To be a part of this community, you must be Ring 3. See [Ring System](#ring-system) for more.**
 
@@ -56,17 +56,14 @@ Anyone who is new and joins the guild can only see `#rules` and `#pr`.
 By default, a Ring 3 can see the channels listed below:
 
 ```markdown
-ricebear-org.github.io
-
-📘 INFO
+📘 Info
 |
 |-----#rules
 |-----#announcements
-|-----#org-list <----------- See how to join other unique channels here!
 
 💬 main-text
 |
-|-----#general
+|-----#chat
 |-----#nsfw
 
 🎤 Main Voice
@@ -79,6 +76,14 @@ ricebear-org.github.io
 📣 PR
 |
 |-----#pr
+
+⚙ User Settings
+|
+|-----#org-list <----------- See how to join other unique channels here!
+
+🌏 Website / Docs
+|
+|-----ricebear-org.github.io (not joinable)
 ```
 
 ## Supported Discord Clients/Mods
@@ -91,17 +96,40 @@ All voice channels use the latest Opus 1.3 codec with (presumably) CBR, usually 
 
 In most channels, the voice channel's server region is set to Auto. Ring 1 users are able to set a specific voice server region for a voice channel using `/edit_vc_region`. See this [Discord support article](https://support.discord.com/hc/en-us/articles/360060570993-Voice-Regions-Update) for more information about the Auto region.
 
-Usually, the channel name format is as follows: NAME [R]
+Usually, the channel name format is as follows: [R] NAME
+
+- R -> Voice server region indicated by emoji. See legend further below.
 
 - NAME -> Either a channel number and/or a special name for this channel.
 
-- R -> Voice server region surrounded by square brackets. Usually set to Auto.
+Here are the voice server regions matched with their emoji:
+
+```markdown
+
+voice_region_dict = {
+    "auto": {"name": "Auto", "emoji": "🌐"},
+    "us-east": {"name": "New York City (US East)", "emoji": "🗽"},
+    "us-central": {"name": "Chicago (US Central)", "emoji": "🏙️"},
+    "us-south": {"name": "Dallas (US South)", "emoji": "🤠"},
+    "us-west": {"name": "California (US West)", "emoji": "🌅"},
+    "japan": {"name": "Japan", "emoji": "🇯🇵"},
+    "hongkong": {"name": "Hong Kong", "emoji": "🇭🇰"},
+    "europe": {"name": "Europe", "emoji": "🇪🇺"},
+    "sydney": {"name": "Australia (Sydney)", "emoji": "🇦🇺"},
+    "india": {"name": "India", "emoji": "🇮🇳"},
+    "singapore": {"name": "Singapore", "emoji": "🇸🇬"},
+    "southafrica": {"name": "South Africa", "emoji": "🇿🇦"},
+    "brazil": {"name": "Brazil", "emoji": "🇧🇷"},
+    "russia": {"name": "Russia", "emoji": "🇷🇺"},
+}
+
+```
 
 ## User Roles and Perks
 
 ### Ring System
 
-In ricebear, each user has a certain Ring (status) level, which ranges from 5 (lowest status) to 1 (highest status). To advance in the hierarchy, just be postively active in the community. If applicable, users from communities that merged with ricebear may obtain equivalent Ring status from their prior community status.
+In ricebear, each user has a certain Ring (status) level, which ranges from 3 (lowest status) to 1 (highest status). To advance in the hierarchy, just be postively active in the community. If applicable, users from communities that merged with ricebear may obtain equivalent Ring status from their prior community status.
 
 The Ring System recognizes active members and creates a safety moat for our guild. *Usually*, promotions come from active guild activity, while demotions (Ring Decay) come from extremely long inactivity.
 
@@ -139,6 +167,8 @@ In this table, ✔ and ❌ are generally used to show perks User Roles have and 
 | Manage Messages                             | ❌                         | ✔               | ✔                 |
 | Create Invite Links                         | ❌                         | ✔               | ✔                 |
 | Max Ring Level Management                   | ❌                         | Up to Ring 3     | Up to Ring 2        |
+| Set Priority Speaker                        | ❌                         | ❌               | ✔                 |
+| Mute/Deafen Members                         | ❌                         | ❌               | ✔                 |
 | Kick/Ban Members                            | ❌                         | ❌               | ✔                 |
 | Bypass Organization Membership Gates        | ❌                         | ❌               | ✔                 |
 
@@ -162,9 +192,7 @@ Currently, the ricebear@Discord gulid has the following bots:
 
 - RaufBot, which posts Discord-Datamining updates to `#discord-news`.
 
-- Mudae. This is a 3rd-party bot not hosted by ricebear. Its main function is a gacha game, accessable by members with Mudae Access.
-
-- The following 3rd-party music bots: Hydra, Rythm, and Rythm 2.
+- The following 3rd-party music bots: Rythm and Rythm 2.
 
 Before requesting a separate bot to join the guild, try looking for an [equivalent cog on index.discord.red](https://index.discord.red).
 
@@ -179,6 +207,8 @@ For organization and voice channels, all of these following requirements must be
 
 - They must not be a part of [Bot Labs, which is owned by Bluestacks](https://botlabs.gg/).
 - They must have a useful purpose.
+
+Also, if a bot is in over 100 servers, they must have either implemented Bot Interactions or have a plan to implement them before [the April 2022 deadline, unless they do not need them as deemed by Discord](https://support-dev.discord.com/hc/en-us/articles/4404772028055-Message-Content-Access-Deprecation-for-Verified-Bots).
 
 Once they are eligible to join, Ring 1 members will decide whether or not to add the requested bot in the future.
 
