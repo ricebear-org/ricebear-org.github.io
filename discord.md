@@ -2,7 +2,7 @@
 
 To go to the ricebear homepage, click [here](/).
 
-**Join the ricebear Discord:** must be invited by a member who is Ring 2 or above, or be accepted through Membership Screening (Discord native feature coming 2021?). Whenever this process is open, this page and `#pr` will be updated with details on how to begin.
+**Join the ricebear Discord:** must be invited by a member who is Ring 2 or above (they have to use `/invite` to generate an invite code), or be accepted through Membership Screening (Discord native feature coming 2021?).
 
 ## Table of Contents
 
@@ -51,7 +51,7 @@ These rules can also be viewed in `#rules` in our Discord guild.
 
 There's a handful of channels in our guild, with more to come. The guild tries to reduce as much channel visibility as you can, so that the channels that you only care about come into view. You can join more channels by joining organizations listed in `#org-list` (some orgs are invite only). Feel free to send new channel suggestions to Ring 1 members.
 
-Anyone who is new and joins the guild can only see `#rules` and `#pr`.
+Anyone who is new and joins the guild can only see `#rules` and our website URL.
 
 By default, a Ring 3 can see the channels listed below:
 
@@ -73,10 +73,6 @@ By default, a Ring 3 can see the channels listed below:
 
 [If you join an org, channels will be located here.]
 
-📣 PR
-|
-|-----#pr
-
 ⚙ User Settings
 |
 |-----#org-list <----------- See how to join other unique channels here!
@@ -94,13 +90,13 @@ By default, a Ring 3 can see the channels listed below:
 
 All voice channels use the latest Opus 1.3 codec with (presumably) CBR, usually at the highest bitrate possible. Even with high bitrates, only bots can play music using a stereo output without voice tuning. Everyone else is limited to mono output with voice tuning (both negatively impacts sound quality). Alternatively, you can use Spotify's Listen Along feature, which integrates into Discord and requires a Spotify connection on your Discord account.
 
-In most channels, the voice channel's server region is set to Auto. Ring 1 users are able to set a specific voice server region for a voice channel using `/edit_vc_region`. See this [Discord support article](https://support.discord.com/hc/en-us/articles/360060570993-Voice-Regions-Update) for more information about the Auto region.
+In most channels, the voice channel's server region is set to Auto. Ring 1 users are able to set a specific voice server region for a voice channel using `/editregion`. See this [Discord support article](https://support.discord.com/hc/en-us/articles/360060570993-Voice-Regions-Update) for more information about the Auto region.
 
 Usually, the channel name format is as follows: [R] NAME
 
-- R -> Voice server region indicated by emoji. See legend further below.
+- R -> Voice server region of the channel indicated by emoji. See legend further below.
 
-- NAME -> Either a channel number and/or a special name for this channel.
+- NAME -> Channel name.
 
 Here are the voice server regions matched with their emoji:
 
@@ -141,9 +137,7 @@ The Ring System recognizes active members and creates a safety moat for our guil
 
 - Ring 3 - New Member (must have this to gain access to usable channels)
 
-You can get Ring 3 by being invited by an existing member, or be accepted through an application process coming soon (tm). Updates on this process will be posted in `#pr`.
-
-If you joined after Oct 2020 and fail to get Ring 3 after a while, then a Ring 1 will reach out to you and make sure you're in the right place.
+You can get Ring 3 by being invited by an existing member, or be accepted through an application process coming soon (tm).
 
 ### Ring Promotion/Demotion Guide
 
@@ -188,13 +182,9 @@ Roles and their functions can change at any time. Any major changes will be anno
 
 Currently, the ricebear@Discord gulid has the following bots: 
 
-- AquaBot (formerly known as Red-v3-ricebear). This bot has multiple functions; type `.help` or `/` to see its commands.
+- AquaBot, based from Augeo, a bot using discord.js v13. This bot has multiple functions; type `/` to see its commands.
 
 - RaufBot, which posts Discord-Datamining updates to `#discord-news`.
-
-- The following 3rd-party music bots: Rythm and Rythm 2.
-
-Before requesting a separate bot to join the guild, try looking for an [equivalent cog on index.discord.red](https://index.discord.red).
 
 For a bot to be eligible to join, all of these following requirements must be met to be available on main-text channels:
 
