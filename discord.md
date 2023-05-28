@@ -33,15 +33,15 @@ To go to the ricebear homepage, click [here](/).
 
 These rules can also be viewed in `#info` in our Discord server.
 
-- 1. You must have the __Ring 3__ role (typically provided by a Ring 1-2 member) and __keep a way to contact a Ring 1-2 member outside Discord__ to gain and retain access to this server.
+- You must have the __Ring 3__ role (typically provided by a Ring 1-2 member) and __keep a way to contact a Ring 1-2 member outside Discord__ to gain and retain access to this server.
 
-- 2. Follow [Discord's Community Guidelines](https://discord.com/guidelines) as they apply to this server, as it does in every other Discord server. It explicitly states what's not good to post in Discord.
+- Follow [Discord's Community Guidelines](https://discord.com/guidelines) as they apply to this server, as it does in every other Discord server. It explicitly states what's not good to post in Discord.
 
-- 3. Stay good towards each other.
+- Stay good towards each other.
 
 ### Enforcement & Appeal
 
-Higher ranked users reserve the privilege to moderate users (timeout, kick, ban, etc.) who don't follow these rules (there are no specific procedures we follow). To **appeal** against any moderation actions, **reach out to any __Ring 1-2 member__ through any method possible**.
+Higher ranked users reserve the privilege to moderate users (timeout, kick, ban, etc.) who don't follow these rules (there are no specific procedures we follow). To **appeal** against any moderation actions, **reach out to any Ring 1-2 member through any method possible**.
 
 ## Server Layout and Channel Visibility
 
