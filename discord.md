@@ -2,7 +2,7 @@
 
 To go to the ricebear homepage, click [here](/).
 
-**Join the ricebear Discord:** must be invited by a member who is Ring 2 or above (they have to use `/invite` to generate an invite code).
+**Join the ricebear Discord:** must be invited by a Member (they have to use `/invite` to generate an invite code).
 
 ## Table of Contents
 
@@ -18,9 +18,7 @@ To go to the ricebear homepage, click [here](/).
 
 - [User Roles and Perks](#user-roles-and-perks)
 
-  - [Ring System](#ring-system)
-
-  - [Ring Promotion/Demotion](#ring-promotiondemotion)
+  - [Main Roles](#main-roles)
 
   - [Permissions Comparison Table](#permissions-comparison-table)
 
@@ -33,23 +31,19 @@ To go to the ricebear homepage, click [here](/).
 
 These rules can also be viewed in `#info` in our Discord server.
 
-- You must have the __Ring 3__ role (typically provided by a Ring 1-2 member) and __keep a way to contact a Ring 1-2 member outside Discord__ to gain and retain access to this server.
-
 - Follow [Discord's Community Guidelines](https://discord.com/guidelines) as they apply to this server, as it does in every other Discord server. It explicitly states what's not good to post in Discord.
 
 - Stay good towards each other.
 
 ### Enforcement & Appeal
 
-Higher ranked users reserve the privilege to moderate users (timeout, kick, ban, etc.) who don't follow these rules (there are no specific procedures we follow). To **appeal** against any moderation actions, **reach out to any Ring 1-2 member through any method possible**.
+Higher ranked users reserve the privilege to moderate users (timeout, kick, ban, etc.) who don't follow these rules (there are no specific procedures we follow). To **appeal** against any moderation actions, **reach out to any Server Admin or Member through any method possible**.
 
 ## Server Layout and Channel Visibility
 
 There's a handful of channels in our server; any channels that can be viewed by all members appear by default. You can utilize `Browse Channels` located below the server name to show/hide channels at any time. If any of the Circles in `#circle-list` interest you, reach out to their managers to gain access to their channel(s).
 
-Anyone who is new and joins the server can only see `#info` and our website URL.
-
-By default, a Ring 3 member can see the channels listed below:
+By default, anyone can see the channels listed below:
 
 ```markdown
 Info 📘
@@ -86,54 +80,45 @@ All voice channels use the highest bitrate available on the server. However, the
 
 In most voice channels, their voice server region is set to Auto.
 
-All voice channels in Main Voice (except Lobby) can be modified by Ring 1-2 members to adjust almost all voice channel settings like name, visibility, and the voice region override.
+All voice channels in Main Voice (except Lobby) can be modified by Members to adjust almost all voice channel settings like name, visibility, and the voice region override.
 
 ## User Roles and Perks
 
-### Ring System
+### Main Roles
 
-In ricebear, each user has a certain Ring (status) level, which ranges from 3 (lowest status) to 1 (highest status). To advance in the hierarchy, just be positively active in the community. If applicable, users from communities that merged with ricebear may obtain equivalent Ring status from their prior community status.
+Like any server, there's a main role hierarchy that recognizes active members and creates a safety moat. *Usually*, to advance in the hierarchy, just be positively active in the community. Being inactive may result in a demotion. If applicable, users from communities that merged with ricebear may obtain equivalent roles from their prior community standing.
 
-The Ring System recognizes active members and creates a safety moat for our server. *Usually*, promotions come from active server activity, while demotions (Ring Decay) come from extremely long inactivity.
+**Role Hierarchy**:
 
-**Ring System hierarchy**:
+- Server Admin
 
-- Ring 1 - Super Member (active for a relatively long time, gains some moderation privileges)
+- Member (*typically* consecutive 4 months of frequent activity, at a minimum)
 
-- Ring 2 - Member (*typically* consecutive 4 months of frequent activity, at a minimum)
-
-- Ring 3 - Prospective Member (must have this to gain access to usable channels)
-
-You can get Ring 3 by being invited by an existing member.
-
-### Ring Promotion/Demotion
-
-Ring 1-2 users can use `/role add Ring #` to add users to a Ring role, and `/role remove Ring #` to remove users from a Ring role. When moving users to different Rings, add the new Ring status, and then remove the old Ring status.
+- Non-Member (represented by @everyone)
 
 ### Permissions Comparison Table
 
 In this table, ✔ and ❌ are generally used to show permissions User Roles have and don't have. Any of these permissions may change at any time, either in the User Group level (table will be updated in this case) or on a single user basis. This is not a comprehensive list of every single permission enabled/disabled on Discord; just the important permissions. Permissions may differ within a Circle's channels; Circle specific permissions aren't listed here.
 
-| Permission                                  | Ring 3 (Prospective Member) | Ring 2 (Member)  | Ring 1 (Mod Team)   |
-| ------------------------------------------- | --------------------------- | ---------------- | ------------------- |
-| Color                                       | Blue                        | Green            | Purple              |
-| Basic Text and Voice Access                 | ✔                          | ✔                | ✔                   |
-| Use Camera, Go Live in Voice Channels       | ✔                          | ✔                | ✔                   |
-| Joining Circles                             | ✔                          | ✔                | ✔                   |
-| Move/Disconnect Users in Voice Channels     | ✔                          | ✔                | ✔                   |
-| Use @everyone, @here, @[role]               | ✔                          | ✔                | ✔                   |
-| View Audit Log                              | ✔                          | ✔                | ✔                   |
-| Change Nickname                             | ❌                         | ✔                | ✔                   |
-| Manage Messages                             | ❌                         | ✔                | ✔                   |
-| Create Invite Links                         | ❌                         | ✔                | ✔                   |
-| Manage Events(1)                            | ❌                         | ✔                | ✔                   |
-| Manage Expressions(2)                       | ❌                         | ✔                | ✔                   |
-| Max Ring Level Management                   | ❌                         | Up to Ring 3     | Up to Ring 2         |
-| Manage Threads                              | ❌                         | ❌               | ✔                   |
-| Set Priority Speaker                        | ❌                         | ❌               | ✔                   |
-| Mute Members                                | ❌                         | ❌               | ✔                   |
-| Kick/Ban/Timeout Members                    | ❌                         | ❌               | ✔                   |
-| Bypass Circle Membership Requirements       | ❌                         | ❌               | ✔                   |
+| Permission                                  | Non-Member | Member     | Server Admin  |
+| ------------------------------------------- | ---------- | ---------- | ------------- |
+| Color                                       | Blue       | Green      | Purple        |
+| Basic Text and Voice Access                 | ✔          | ✔         | ✔             |
+| Use Camera, Go Live in Voice Channels       | ✔          | ✔         | ✔             |
+| Joining Circles                             | ✔          | ✔         | ✔             |
+| Move/Disconnect Users in Voice Channels     | ✔          | ✔         | ✔             |
+| View Audit Log                              | ✔          | ✔         | ✔             |
+| Use @everyone, @here, @[role]               | ❌         | ✔         | ✔             |
+| Change Nickname                             | ❌         | ✔         | ✔             |
+| Manage Messages                             | ❌         | ✔         | ✔             |
+| Create Invite Links                         | ❌         | ✔         | ✔             |
+| Manage Events(1)                            | ❌         | ✔         | ✔             |
+| Manage Expressions(2)                       | ❌         | ✔         | ✔             |
+| Manage Threads                              | ❌         | ❌        | ✔             |
+| Set Priority Speaker                        | ❌         | ❌        | ✔             |
+| Mute Members                                | ❌         | ❌        | ✔             |
+| Kick/Ban/Timeout Members                    | ❌         | ❌        | ✔             |
+| Bypass Circle Membership Requirements       | ❌         | ❌        | ✔             |
 
 Notes:
 
@@ -161,7 +146,7 @@ Currently, the ricebear@Discord guild has the following bots:
 
 - EvoBot, a music bot which is only accessable to (a) specific Circle(s).
 
-For a bot to be eligible to join the server, it must not be MEE6 or a part of [Bot Labs, which is owned by Bluestacks](https://botlabs.gg/). Bots that can be self-hostable and/or open source are a plus. Send bot requests to anyone in Ring 1.
+For a bot to be eligible to join the server, it must not be MEE6 or a part of [Bot Labs, which is owned by Bluestacks](https://botlabs.gg/). Bots that can be self-hostable and/or open source are a plus. Send bot requests to a server admin.
 
 ## Special Credits
 
