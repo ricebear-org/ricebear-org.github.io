@@ -114,10 +114,11 @@ In this table, ✔ and ❌ are generally used to show permissions User Roles hav
 | Create Invite Links                         | ❌         | ✔         | ✔             |
 | Manage Events(1)                            | ❌         | ✔         | ✔             |
 | Manage Expressions(2)                       | ❌         | ✔         | ✔             |
-| Manage Threads                              | ❌         | ❌        | ✔             |
-| Set Priority Speaker                        | ❌         | ❌        | ✔             |
-| Mute Members                                | ❌         | ❌        | ✔             |
-| Kick/Ban/Timeout Members                    | ❌         | ❌        | ✔             |
+| Manage Threads                              | ❌         | ✔         | ✔             |
+| Set Priority Speaker                        | ❌         | ✔         | ✔             |
+| Mute Members                                | ❌         | ✔         | ✔             |
+| Kick/Ban/Timeout Members                    | ❌         | ✔         | ✔             |
+| Bypass Circle Membership Requirements       | ❌         | ✔         | ✔             |
 | Bypass Circle Membership Requirements       | ❌         | ❌        | ✔             |
 
 Notes:
