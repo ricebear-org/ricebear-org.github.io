@@ -70,7 +70,7 @@ Website / Docs 🌏
 
 ## Supported Discord Clients/Mods
 
-**Only official clients (Discord Stable, PTB, Canary) without mods (this means no custom CSS injection, enrolling yourself in experiments you shouldn't use) are tested and supported.** Use unofficial clients/mods [at your own risk](https://news.ycombinator.com/item?id=25214777).
+**Only official clients (Discord Stable, PTB, Canary) without mods (such as custom CSS injection, enrolling yourself in experiments you shouldn't use, etc) are tested and supported.** Use unofficial clients/mods [at your own risk](https://news.ycombinator.com/item?id=25214777).
 
 ## Voice Channels
 
@@ -78,7 +78,7 @@ In Main Voice, voice channels dynamically show up depending on server activity. 
 
 All voice channels use the highest bitrate available on the server. However, the only way to output audio quality acceptable for music listening is by using bots or Go Live streaming. Alternatively, you can use the [Listen to Spotify](https://support.discord.com/hc/en-us/articles/115003966072-Listening-Along-with-Spotify) feature.
 
-In most voice channels, their voice server region is set to Auto.
+Normally, voice channels have their region overrides set to Auto.
 
 All voice channels in Main Voice (except Lobby) can be modified by Members to adjust almost all voice channel settings like name, visibility, and the voice region override.
 
@@ -119,7 +119,7 @@ In this table, ✔ and ❌ are generally used to show permissions User Roles hav
 | Mute Members                                | ❌         | ✔         | ✔             |
 | Kick/Ban/Timeout Members                    | ❌         | ✔         | ✔             |
 | Bypass Circle Membership Requirements       | ❌         | ✔         | ✔             |
-| Bypass Circle Membership Requirements       | ❌         | ❌        | ✔             |
+| Administrator Access                        | ❌         | ❌        | ✔             |
 
 Notes:
 
@@ -142,10 +142,6 @@ Roles and their functions can change at any time. Any major changes will be anno
 Currently, the ricebear@Discord guild has the following bots: 
 
 - HarumiBot, based from [Augeo](https://github.com/fuyubear/augeo), a bot using discord.js v14. This bot has multiple functions; type `/` to see its commands.
-
-- Green-bot 2, a music bot which is only accessable to (a) specific Circle(s).
-
-- EvoBot, a music bot which is only accessable to (a) specific Circle(s).
 
 For a bot to be eligible to join the server, it must not be MEE6 or a part of [Bot Labs, which is owned by Bluestacks](https://botlabs.gg/). Bots that can be self-hostable and/or open source are a plus. Send bot requests to a server admin.
 
